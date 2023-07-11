@@ -1,0 +1,43 @@
+# Protocol Level Information
+title = "truefi"
+website = "https://truefi.io/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/trusttoken/audits/master/TrueFi/2021-07-26%20ImmuneBytes%20LP%20Staking%20Gauge%20Audit%20Report"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/trusttoken/audits/master/TrueFi/2021-07-30%20ImmuneBytes%20SAFU%20Audit%20Report"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/trusttoken/audits/master/TrueFi/2021-10-17%20ImmuneBytes%20Lines%20of%20Credit%20Audit%20Report"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/trusttoken/audits/master/TrueFi/2021-12-21%20Chainsulting%20Audit%20--%20One-Click%20Borrowing%2C%20Lines%20of%20Credit%2C%20Rate%20Model%2C%20TRU%20Staking%2C%20Default%20Liquidation.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/trusttoken/audits/master/TrueFi/20211203%20CertiK%20Audit%20Final%20Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/trusttoken/audits/master/TrueFi/REP-Trusttoken-%232-2021-09-13.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/trusttoken/audits/master/TrueFi/truefi_2.0_audit_ben_cosman_2_17_2021.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/trusttoken/audits/master/TrueFi/truefi_2.0_audit_ethworks_2_17_2021.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/trusttoken/audits/master/TrueFi/truefi_3.0_audit_ben_cosman_5_19_2021.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/trusttoken/audits/master/TrueFi/truefi_3.0_audit_certik_5_12_2021.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/trusttoken/audits/master/TrueFi/truefi_3.0_audit_certik_5_20_2021.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/trusttoken/audits/master/TrueFi/truefi_audit_jakub_wojciechowski_november_22_2020.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/trusttoken/audits/master/TrueFi/truefi_audit_slowmist_november_21_2020.pdf"

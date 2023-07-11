@@ -1,0 +1,22 @@
+# Protocol Level Information
+title = "aave-v2"
+website = "https://aave.com\r\n"
+
+# Audits
+[[audit]]
+url = "https://github.com/aave/protocol-v2/blob/master/audits/Certik-aave-v2-03-12-2020.pdf"
+
+[[audit]]
+url = "https://github.com/aave/protocol-v2/blob/master/audits/Certora-FV-aave-v2-03-12-2020.pdf"
+
+[[audit]]
+url = "https://github.com/aave/protocol-v2/blob/master/audits/Mixbytes-aave-v2-03-12-2020.pdf"
+
+[[audit]]
+url = "https://github.com/aave/protocol-v2/blob/master/audits/PeckShield-aave-v2-03-12-2020-CN.pdf"
+
+[[audit]]
+url = "https://github.com/aave/protocol-v2/blob/master/audits/Peckshield-aave-v2-03-12-2020-EN.pdf"
+
+[[audit]]
+url = "https://github.com/aave/protocol-v2/blob/master/audits/SigmaPrime-aave-v2-01-2021.pdf"

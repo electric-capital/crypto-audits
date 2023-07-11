@@ -1,0 +1,16 @@
+# Protocol Level Information
+title = "tornado-cash"
+website = "https://tornado.cash/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/abdk-consulting/audits/main/tornado/TornadoCash_anonymity_mining_first_audit_ABDK.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/abdk-consulting/audits/main/tornado/Tornado_circuit_audit.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/abdk-consulting/audits/main/tornado/Tornado_cryptographic_review.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/abdk-consulting/audits/main/tornado/Tornado_solidity_audit.pdf"

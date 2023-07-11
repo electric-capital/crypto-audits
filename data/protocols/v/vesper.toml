@@ -1,0 +1,94 @@
+# Protocol Level Information
+title = "vesper"
+website = "https://vesper.finance/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v1/REP-Bloq-11_11_20.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v2/REP-Bloq-VesperPools-20_01_2021.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v2/REP-Bloq_15_02_2021.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v2/Vesper%20Pools%20Security%20-%20Fourth%20Audit%20v210119.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v2/Vesper%20Pools%20Security%20-%20PaymentSplitter%20Audit%20v210210.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v2/Vesper%20Pools%20Security%20-%20Second%20Audit%20v201230.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v2/Vesper%20Pools%20Security%20-%20Third%20Audit%20v201230.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v2/Vesper%20Pools%20Security%20Audit%20v201230.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v3%2B/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Vesper%20-%20Nov%202021.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v3%2B/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Vesper%20Earn%20-%20September%202021.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v3%2B/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Vesper%20Pools%20February%202022.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v3%2B/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Vesper%20Pools%20January%202022.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v3%2B/PRE-Bloq_%20Vesper%20Pools%20V3-2021-06-26-certik.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v3%2B/Vesper%20Pools%20audit-poolv2-dedaub-April-2021.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v3%2B/Vesper%20Pools%20v3%20audit-dedaub-May-2021.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v3%2B/Vesper%20Pools%20v3%20audit-dedaub.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v3%2B/Vesper%20Pools%2BStrategies%20September-2021.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v3%2B/Vesper%20Pools-Dedaub-Nov-2021.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v3%2B/Vesper%20Strategies%20-%20April%20v210428.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v3%2B/Vesper%20V3%20-%202nd%20Review%20-%20v2-may-2021.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v3%2B/Vesper%20V3%20-%202nd%20Review%20-%20v210519%20(1).pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v3%2B/Vesper-Pools-Audit-Coinspect-Jan21.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v3%2B/Vesper-Pools-Audit-Coinspect-March21.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v3%2B/Vesper-Pools-Audit-Coinspect-March22.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v3%2B/Vesper-Pools-Audit-Coinspect-Nov21.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v3%2B/Vesper-Pools-Audit-Coinspect-Sept21.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v3%2B/Vesper-Pools-Audit-Dedaub-April%2022.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v3%2B/Vesper-Pools-Audit-Dedaub-Oct21.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v3%2B/Vesper-Pools-Strategies-Audit-Halborn-Aug-22.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/vesperfi/doc/main/audit/v3%2B/Vesper-Pools-Synth-VUSD-Deltas-Dedaub-March22.pdf"

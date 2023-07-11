@@ -1,0 +1,16 @@
+# Protocol Level Information
+title = "b.protocol"
+website = "https://app.bprotocol.org/"
+
+# Audits
+[[audit]]
+url = "https://github.com/solidified-platform/audits/blob/master/Audit%20Report%20-%20Backstop%20Protocol%20[02.10.2020].pdf"
+
+[[audit]]
+url = "https://github.com/solidified-platform/audits/blob/60778395ae2f78fc1caec0085bfa96c6f70c4573/Audit%20Report%20-%20B-Protocol%20[16.02.2021].pdf"
+
+[[audit]]
+url = "https://github.com/Fixed-Point-Solutions/published-work/blob/master/SmartContractAudits/FPS_B.AMM_Liquity_Assessment_FINAL.pdf"
+
+[[audit]]
+url = "https://github.com/Fixed-Point-Solutions/published-work/blob/master/SmartContractAudits/FPS_B.AMM_Rari_Assessment_FINAL.pdf"

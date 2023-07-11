@@ -1,0 +1,19 @@
+# Protocol Level Information
+title = "acryptos"
+website = "https://app-v2.acryptos.com/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/acryptos/acryptos-protocol/main/audits/20210218-Hacken-ACryptoSFarmV2.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/acryptos/acryptos-protocol/main/audits/20210324-Certik-StrategyACryptoSCakeTokenTokenV2.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/acryptos/acryptos-protocol/main/audits/20210331-Hacken-Complete.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/acryptos/acryptos-protocol/main/audits/20211105-Hacken-AcsiFinance-BalancerV2.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/acryptos/acryptos-protocol/main/audits/20211116-Hacken-Review.pdf"

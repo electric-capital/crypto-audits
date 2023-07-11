@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "stakehound"
+website = "https://stakehound.com/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/stakehound/stakehound-core/master/audits/StakeHound-Quantstamp-audit-report.pdf"

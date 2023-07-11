@@ -1,0 +1,46 @@
+# Protocol Level Information
+title = "stargate"
+website = "https://stargate.finance/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/stargate-protocol/stargate/main/audit/Stargate%20Audit%201.0%20(December%2022nd%202021)%20-%20Quantstamp.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/stargate-protocol/stargate/main/audit/Stargate%20Audit%201.1%20(March%2021st%202022)%20-%20Zokyo.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/stargate-protocol/stargate/main/audit/Stargate%20Audit%202.0%20(February%2024th%202022)%20-%20Quantstamp.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/stargate-protocol/stargate/main/audit/Stargate%20Audit%20Report%20(16th%20March%202022)%20-%20Quantstamp.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/stargate-protocol/stargate/main/audit/Stargate%20Audit%20Report%20(March%206th%202022)%20-%20Zellic.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/stargate-protocol/stargate/main/audit/Stargate%20EthVault%20%26%20RouterETH%20Audit%201.1%20(17th%20June%202022)%20-%20Ackee.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/stargate-protocol/stargate/main/audit/Stargate%20EthVault%20%26RouterETH%20Audit%201.0%20(17th%20June%202022)%20-%20Ackee.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/stargate-protocol/stargate/main/audit/Stargate%20FeeLibraryV4%20Audit%201.0%20(June%2028th%202022)%20-%20Ackee.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/stargate-protocol/stargate/main/audit/Stargate%20FeeLibraryV4%20Audit%201.1%20(June%2028th%202022)%20-%20Ackee.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/stargate-protocol/stargate/main/audit/Stargate%20LPStakingTime%20%26%20WidgetSwap%20Audit%201.0%20(July%2012th%202022)%20-%20Ackee.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/stargate-protocol/stargate/main/audit/Stargate%20LPStakingTime%20%26%20WidgetSwap%20Audit%201.1%20(July%2012th%202022)%20-%20Ackee.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/stargate-protocol/stargate/main/audit/Stargate%20Router%20%26%20FeeLibraryV5.1%20Audit%20(December%2014th%202022)%20-%20Zellic.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/stargate-protocol/stargate/main/audit/Stargate%20VE%20Audit%201.0%20(March%2029th%202022)%20-%20Ackee.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/stargate-protocol/stargate/main/audit/Stargate%20VE%20Audit%201.1%20(April%2013th%202022)%20-%20Ackee.pdf"

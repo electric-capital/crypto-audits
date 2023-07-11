@@ -1,0 +1,13 @@
+# Protocol Level Information
+title = "homora-v2"
+website = "https://homora-v2.alphaventuredao.io/"
+
+# Audits
+[[audit]]
+url = "https://github.com/AlphaFinanceLab/alpha-homora-v2-contract/blob/master/audits/Alpha-Homora-v2-Peckshield-audit-report.pdf"
+
+[[audit]]
+url = "https://github.com/AlphaFinanceLab/alpha-homora-v2-contract/blob/master/audits/Alpha-Homora-v2-Quantstamp-audit-report.pdf"
+
+[[audit]]
+url = "https://github.com/AlphaFinanceLab/alpha-homora-v2-contract/blob/master/audits/PeckShield-Audit-Report-AlphaStaking-AggregatorOracle-v1.0.pdf"

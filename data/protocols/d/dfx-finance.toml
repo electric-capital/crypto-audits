@@ -1,0 +1,16 @@
+# Protocol Level Information
+title = "dfx-finance"
+website = "https://app.dfx.finance"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/dfx-finance/protocol-v2/main/audits/2021-05-03-Trail_of_Bits.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/dfx-finance/protocol-v2/main/audits/2022-09-DFXv2-Pickax-Audit.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/dfx-finance/protocol-v2/main/audits/2022-09-DFXv2-Sebone-Audit.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/dfx-finance/protocol-v2/main/audits/2023-02-07-DFXv2-Kalos-Audit.pdf"

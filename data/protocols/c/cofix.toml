@@ -1,0 +1,16 @@
+# Protocol Level Information
+title = "cofix"
+website = "https://cofix.io"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/Computable-Finance/CoFiX/master/security_audit/CertiK_CoFiX_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/Computable-Finance/CoFiX/master/security_audit/CertiK_CoFiX_Audit_Report_2nd.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/Computable-Finance/CoFiX/master/security_audit/CertiK_CoFiX_Audit_Report_Phase_3.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/Computable-Finance/CoFiX/master/security_audit/PeckShield-Audit-Report-CoFix-v1.0.pdf"

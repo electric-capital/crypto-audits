@@ -1,0 +1,13 @@
+# Protocol Level Information
+title = "beta-finance"
+website = "https://www.betafinance.org/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/beta-finance/beta/master/audits/OZ%20-%20Beta%20Finance%20Audit%20Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/beta-finance/beta/master/audits/PeckShield-Audit-Report-Beta-v1.0.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/beta-finance/beta/master/audits/ToB%20-%20Beta%20Finance%20Final%20Report.pdf"

@@ -1,0 +1,16 @@
+# Protocol Level Information
+title = "renvm"
+website = "https://renproject.io/"
+
+# Audits
+[[audit]]
+url = "https://github.com/renproject/ren/wiki/assets/audit01-smart-contracts.pdf"
+
+[[audit]]
+url = "https://github.com/renproject/ren/wiki/assets/audit02-hyperdrive.pdf"
+
+[[audit]]
+url = "https://github.com/renproject/ren/wiki/assets/audit03-rzl.pdf"
+
+[[audit]]
+url = "https://github.com/trailofbits/publications/blob/master/reviews/renvm.pdf"

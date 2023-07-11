@@ -1,0 +1,10 @@
+# Protocol Level Information
+title = "basketdao"
+website = "https://basketdao.org/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/basketdao/contracts/main/audits/haechi_2021_04_30_results.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/basketdao/contracts/main/audits/haechi_2021_05_01_full_report.pdf"

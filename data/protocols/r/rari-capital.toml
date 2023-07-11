@@ -1,0 +1,13 @@
+# Protocol Level Information
+title = "rari-capital"
+website = "https://rari.capital/"
+
+# Audits
+[[audit]]
+url = "https://certificate.quantstamp.com/full/rari-capital.pdf"
+
+[[audit]]
+url = "https://certificate.quantstamp.com/full/rari-capital-on-chain-governance.pdf"
+
+[[audit]]
+url = "https://certificate.quantstamp.com/full/rari-capital-v-2.pdf"

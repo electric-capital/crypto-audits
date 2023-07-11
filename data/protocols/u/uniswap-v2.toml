@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "uniswap-v2"
+website = "https://uniswap.org/"
+
+# Audits
+[[audit]]
+url = "https://rskswap.com/audit.html"

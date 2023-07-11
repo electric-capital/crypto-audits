@@ -1,0 +1,148 @@
+# Protocol Level Information
+title = "yearn-finance"
+website = "https://yearn.finance/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202000_Mixed_yearn-finance/CryptoManiacs%20%20-%20Audit%20of%20iearn.finance%20by%20CryptoManiacs%20-%20HackMD.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202000_Mixed_yearn-finance/StrategyCurveYCRV.sol%20-%20HackMD.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202000_Mixed_yearn-finance/YearnV2_%20our%20gotcha%20notes%20-%20HackMD.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202002_Certik_itoken/Certik%20-%20itoken-finance-audit-report-1.1.0.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202007_Quantstamp_yearn-finance/Quantstamp%20-%20Yearn.Finance%20Security%20Review.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202011_MixBytes_timeloans-finance/MixBytes%20-%20Timeloans.Finance%20Smart%20Contract%20Security%20Audit%20Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202011_MixBytes_vaultsv1/MixBytes%20-%20Yearn.Finance%20protocol%20v.1%20Smart%20Contracts%20Audit%20Security%20Audit%20Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202012_MixBytes_yearn-vaults/MixBytes_Yearn_Vault_v_2_Smart_Contract_Audit_Report_Solidity_part.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202012_MixBytes_yearn-vaults/MixBytes_Yearn_Vault_v_2_Smart_Contract_Audit_Report_Vyper_part.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202012_MixBytes_yoracle-link/MixBytes_Yoracle_link_Smart_Contracts_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202101_Peckshield_yearn-strategies/PeckShield_Yearn_Strategies_v_2_Hegic_and_Dai_Smart_Contracts_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202102_MixBytes_coverv2/Mixbytes_Cover_Protocol_v2_Security_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202102_MixBytes_sushiswap-bentobox/202102_MixBytes_sushiswap-bentobox.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202102_MixBytes_yearn-generic-lender/MixBytes_YearnV2_generic_lender_strat_Smart_Contracts_Security_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202102_Peckshield_cover-forge/PeckShield_Audit_Report_CoverForge_v1.0.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202103_MixBytes_yearn-ypool-3pool/MixBytes_-_Yearn_Stablecoins_3pool_Contracts_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202103_MixBytes_yearn-ypool-3pool/MixBytes_-_Yearn_Stablecoins_Ypool_Contracts_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/20210423_MixBytes_yearn_curve_voter_proxy/MixBytes_-_Curve_Voter_Proxy_Security_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/20210428_MixBytes_yearn_generic_lender_aave/MixBytes_-_Yearn_Generic_Lender_Aave_Contracts_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202104_MixBytes_yearn-v3-wrapper/MixBytes_-_Yearn_Vault_v.3_Wrapper_Smart_Contracts_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202104_MixBytes_yearn-yvboost/MixBytes_-_Yearn_Yvboost_Contracts_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/20210526_MixBytes_yearn_strategies_snx/MixBytes_-_Yearn_Strategies_SNX_Contracts_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/20210616_MixBytes_yearn_liquity_stabily_pool/MixBytes_-_Yearn_Liquity_stability_pool_Security_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/20210719_ToB_yearn_vaultsv2/ToB_-_Yearn_Vault_v_2_Smart_Contracts_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/20211019_MixBytes_yearn_maker_dai_delegate/MixBytes_-_Yearn_Maker_Dai_Delegate_Security_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/20220123_ChainSecurity_yearn_partner_tracker/ChainSecurity_-_Yearn_Finance_Partner_Tracker_Audit.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/20220123_Mixbytes_yearn_strategy_ssb/Mixbytes_-_Yearn_Strategy_SSB_Security_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202202_Optimum_Tokemak/Optimum_-_Yearn_Tokemak_Strategy_Security_Assessment.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/20220409_Mixbytes_Yearn_Joint_Strategy/Mixbytes_-_Yearn_Joint_Strategy_Security_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/20220409_Mixbytes_Yearn_Yswaps/Mixbytes_-_Yearn_Yswaps_Security_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/20220409_Optimum_Notional_Finance_Strategy/Optimum_-_Notional_Finance_Strategy_Security_Assessment.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202204_Dedaub_Angle/Dedaub_-_Angle.md"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202204_Dedaub_Stargate/Dedaub_-_Stargate.md"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/20220511_Optimum_Gen_lev_lending_Strategy/Optimum_-_Gen_lev_lending_Strategy_Security_Assessment.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/20220528_Stargate_Strategy/Optimum_-_Stargate_Strategy_Security_Assessment.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/20220528_Stargate_Strategy/Optimum_-_Uni_v3_Frax_Strategy_Security_Assessment.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202206_Decurity_yearn_nohedge_joint/Decurity_-_No_Hedge_Joint_Strategy_Security_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202206_Optimum_Notional_LP/Optimum_-_Notional_Finance_LP_Strategy_Security_Assessment.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202207_Optimum_Angle/Optimum_-_Angle_Protocol_Strategy_Security_Assessment.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202207_Statemind_yearn-veyfi/Statemind_-_Yearn_veyfi_Audit.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202208_Statemind_Tarot_Impermax/202208_Statemind_Tarot_Impermax.md"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202208_yAcademy_strats/yAcademy_-_LevGeist_review.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202208_yAcademy_strats/yAcademy_-_Yearn_BalancerLpFactory_review.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202208_yAcademy_strats/yAcademy_-_joint_strategy_review.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202208_yAcademy_yearn-veyfi/yAcademy_-_yearn_veyfi_review.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202209_ChainSecurity_yearn-serpentor/ChainSecurity_Yearn_Serpentor_audit.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202209_ChainSecurity_yearn-yCRV-and-ZapYCRV/ChainSecurity_-_Yearn_yCRV_and_ZapYCRV_Audit.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/yearn/yearn-security/master/audits/202211_ChainSecurity_yearn-veYFI_and_RewardPool/ChainSecurity_-_Yearn_veYFI_and_RewardPool_audit.pdf"

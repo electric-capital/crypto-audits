@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "dhedge"
+website = "https://www.dhedge.org/"
+
+# Audits
+[[audit]]
+url = "https://iosiro.com/audits/dhedge-platform-smart-contract-audit"

@@ -1,0 +1,31 @@
+# Protocol Level Information
+title = "unicrypt"
+website = "https://unicrypt.network"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/chainsulting/Smart-Contract-Security-Audits/master/Unicrypt/01_Certificate_Unicrypt.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/chainsulting/Smart-Contract-Security-Audits/master/Unicrypt/01_Certificate_Unicrypt_Locking_V2.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/chainsulting/Smart-Contract-Security-Audits/master/Unicrypt/01_Certificate_Unicrypt_Presale.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/chainsulting/Smart-Contract-Security-Audits/master/Unicrypt/01_Certificate_Unicrypt_TokenVesting.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/chainsulting/Smart-Contract-Security-Audits/master/Unicrypt/02_Smart%20Contract%20Audit%20Unicrypt_Farm.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/chainsulting/Smart-Contract-Security-Audits/master/Unicrypt/02_Smart%20Contract%20Audit%20Unicrypt_Locking_V2.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/chainsulting/Smart-Contract-Security-Audits/master/Unicrypt/02_Smart%20Contract%20Audit%20Unicrypt_Presale.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/chainsulting/Smart-Contract-Security-Audits/master/Unicrypt/02_Smart%20Contract%20Audit_Unicrypt_TokenVesting.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/chainsulting/Smart-Contract-Security-Audits/master/Unicrypt/Smart_Contract_Audit_Unicrypt_ENMTv2_11012023.pdf"

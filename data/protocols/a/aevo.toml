@@ -1,0 +1,10 @@
+# Protocol Level Information
+title = "aevo"
+website = "https://www.aevo.xyz"
+
+# Audits
+[[audit]]
+url = "https://github.com/aevoxyz/audit/blob/main/Ribbon-report.pdf"
+
+[[audit]]
+url = "https://github.com/aevoxyz/audit/blob/main/VAR_Ribbon.pdf"

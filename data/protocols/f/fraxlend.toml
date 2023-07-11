@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "fraxlend"
+website = "https://app.frax.finance/fraxlend/available-pairs"
+
+# Audits
+[[audit]]
+url = "https://github.com/trailofbits/publications/blob/master/reviews/2022-10-fraxfinance-fraxlend-fraxferry-securityreview.pdf"

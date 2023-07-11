@@ -1,0 +1,16 @@
+# Protocol Level Information
+title = "augur"
+website = "https://www.augur.net/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/AugurProject/augur-audits/master/augur-core/ChainSecurity%20-%20Augur%20Core%20v1.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/AugurProject/augur-audits/master/augur-core/LeastAuthority%20-%20Augur%20Core%20v1.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/AugurProject/augur-audits/master/augur-core/Zeppelin%20-%20Augur%20Core%20v3.1.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/AugurProject/augur-audits/master/augur-core/Zeppelin%20-%20Augur%20Core%20v3.pdf"

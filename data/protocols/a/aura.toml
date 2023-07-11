@@ -1,0 +1,25 @@
+# Protocol Level Information
+title = "aura"
+website = "https://aura.finance"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/aurafinance/aura-contracts/main/audits/auraBalVault/facu_spagnuolo_aurabal_vault_audit_report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/aurafinance/aura-contracts/main/audits/auraBalVault/halborn_aurabal_vault_audit_report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/aurafinance/aura-contracts/main/audits/sidechain/halborn_sidechain_audit_report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/aurafinance/aura-contracts/main/audits/sidechain/hephyrius-internal-report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/aurafinance/aura-contracts/main/audits/sidechain/zellic_sidechain_audit_report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/aurafinance/aura-contracts/main/audits/upgrades/facu_spagnuolo_aura_upgrade_01_audit_report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/aurafinance/aura-contracts/main/audits/upgrades/hephyrius_aura_upgrade_01_audit_report.pdf"

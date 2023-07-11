@@ -1,0 +1,46 @@
+# Protocol Level Information
+title = "dodo"
+website = "https://dodoex.io/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/DODOEX/contractV2/main/audit/PeckShield-Audit-DODOV2-v1.0.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/DODOEX/contractV2/main/audit/SlowMist_Smart%20Contract_Security_Audit_Report_DODOV2.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/DODOEX/contractV2/main/audit/Smart%20contract%20security%20audit%20report-DODO.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/DODOEX/contractV2/main/audit/%5BCertik%5D%20MiningV2.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/DODOEX/contractV2/main/audit/%5BCertik%5D%20NFT.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/DODOEX/contractV2/main/audit/%5BPeckShield%5D%20DODO-NFTPool-v1.0.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/DODOEX/contractV2/main/audit/%5BPeckShiled%5D%20MiningV2.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/DODOEX/contractV2/main/audit/%5BPeckShiled%5D%20MiningV3.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/DODOEX/contractV2/main/audit/%5BPeckshield%5D%20dodo_audit_report_2020_16_en_1.0.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/DODOEX/contractV2/main/audit/%5BSlowMist%5D%20DODO-NFTPool.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/DODOEX/contractV2/main/audit/%5BSlowMist%5D%20MiningV3%20and%20NFT.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/DODOEX/contractV2/main/audit/%5BTrail%20of%20Bits%5D%20DODO%20Summary%20Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/DODOEX/contractV2/main/audit/dodo_audit_report_2020_16_en_1.0.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/DODOEX/contractV2/main/audit/vDODO-final-report.pdf"

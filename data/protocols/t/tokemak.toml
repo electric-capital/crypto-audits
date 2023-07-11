@@ -1,0 +1,22 @@
+# Protocol Level Information
+title = "tokemak"
+website = "https://www.tokemak.xyz"
+
+# Audits
+[[audit]]
+url = "https://3621136108-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FJJPRmiI2VEr3nCa48AWp%2Fuploads%2Fc3eIeJkRWUPHX0hXnA3X%2FTokemak%20-%20Final%20Report%20%5BTrail%20of%20Bits%202021%2012%2022%20-%20Tokemak%5D.pdf?alt=media&token=21a30610-e078-49e4-8bde-6a170c395517"
+
+[[audit]]
+url = "https://3621136108-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FJJPRmiI2VEr3nCa48AWp%2Fuploads%2FA0Hcfc49nAE2EyOwuI5W%2FTokemak_WebApp_Pentest_Report_Halborn_Final-2.pdf?alt=media&token=8cbe25e5-1f31-405c-ad44-f20f5eaf8b26"
+
+[[audit]]
+url = "https://3621136108-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FJJPRmiI2VEr3nCa48AWp%2Fuploads%2FpUDym84wfRHfQTneEbPu%2FTokemak_Voting_Delegation_Staking_Smart_Contract_Security_Audit%20(2).pdf?alt=media&token=39984631-6c79-4b6c-9ade-6e602266adc4"
+
+[[audit]]
+url = "https://3621136108-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FJJPRmiI2VEr3nCa48AWp%2Fuploads%2FLnWTvHRJRuz4aXrKPXwn%2FTokemak_Reserve_and_Controller_Smart_Contract_Security_Audit_Report%202.pdf?alt=media&token=121a0d20-904c-4a80-96bc-774af3f70e56"
+
+[[audit]]
+url = "https://docs.tokemak.xyz/technical-resources/network-security/omniscia-2-23-2022"
+
+[[audit]]
+url = "https://certificate.quantstamp.com/full/tokemak.pdf"

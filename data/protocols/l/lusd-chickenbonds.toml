@@ -1,0 +1,25 @@
+# Protocol Level Information
+title = "lusd-chickenbonds"
+website = "https://www.chickenbonds.org"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/liquity/ChickenBond/main/LUSDChickenBonds/audits/B.Protocol%20-%20Chicken%20Bonds%20Audit.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/liquity/ChickenBond/main/LUSDChickenBonds/audits/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Liquity%20ChickenBond.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/liquity/ChickenBond/main/LUSDChickenBonds/audits/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Liquity%20ChickenBonds%202nd%20v220803.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/liquity/ChickenBond/main/LUSDChickenBonds/audits/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Liquity%20ChickenBonds%203rd%20v220929.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/liquity/ChickenBond/main/LUSDChickenBonds/audits/Coinspect%20-%20Smart%20Contract%20Audit%20-%20Liquity%20ChickenBonds%204th%20v221021.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/liquity/ChickenBond/main/LUSDChickenBonds/audits/Dedaub_Chicken%20Bonds%20Audit.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/liquity/ChickenBond/main/LUSDChickenBonds/audits/Dedaub_Chicken%20Bonds%20Delta%20Audit%20(NFT%20additions).pdf"

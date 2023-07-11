@@ -1,0 +1,10 @@
+# Protocol Level Information
+title = "poly-network"
+website = "https://www.poly.network"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/polynetwork/audit-report/master/BlockSec/BlockSec-Audit-Report-PolyNetwork-final.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/polynetwork/audit-report/master/PeckShield/PeckShield-Audit-Report-PolyNetwork-final.pdf"

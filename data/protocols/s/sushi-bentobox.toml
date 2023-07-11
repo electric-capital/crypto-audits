@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "sushi-bentobox"
+website = "https://www.sushi.com"
+
+# Audits
+[[audit]]
+url = "https://github.com/mixbytes/audits_public/blob/master/SushiSwap/BentoBox/Sushiswap%20Bentobox%20Smart%20Contract%20Audit%20(1).pdf"

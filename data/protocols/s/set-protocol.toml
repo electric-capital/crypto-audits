@@ -1,0 +1,13 @@
+# Protocol Level Information
+title = "set-protocol"
+website = "https://www.tokensets.com/"
+
+# Audits
+[[audit]]
+url = "https://gist.githubusercontent.com/bernard-wagner/0626e587a87e9532bddba2da7ea80c89/raw/f75e1b9d2c1d6c918df28be435ffdc4043e335ab/iosiro_set-protocol-perpetual-v2.md"
+
+[[audit]]
+url = "https://gist.githubusercontent.com/bernard-wagner/eb5469ed393d1fde02a9246396a9995b/raw/dfe1c6e05f7b0b45f3a59a80e118f9c870cd4b96/iosiro_set-protocol-basis-trading-module.md"
+
+[[audit]]
+url = "https://blog.openzeppelin.com/set-protocol-audit"

@@ -1,0 +1,10 @@
+# Protocol Level Information
+title = "indexed-finance"
+website = "https://indexed.finance/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/maxsam4/indexed-finance-review/main/README.md"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/akiratechhq/audit-indexed-finance-2020-10/master/Readme.md"

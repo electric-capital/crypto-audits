@@ -1,0 +1,10 @@
+# Protocol Level Information
+title = "compound-v3"
+website = "https://v3-app.compound.finance/"
+
+# Audits
+[[audit]]
+url = "https://blog.openzeppelin.com/compound-iii-audit/"
+
+[[audit]]
+url = "https://chainsecurity.com/wp-content/uploads/2022/07/ChainSecurity_Compound_Comet_audit_May-30th-2022-1.pdf"

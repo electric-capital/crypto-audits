@@ -1,0 +1,13 @@
+# Protocol Level Information
+title = "0x-nodes"
+website = "https://0xnodes.io/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/0xNODES/_audits/main/Halborn/0xNodes_SushiSwap_Integration_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/0xNODES/_audits/main/Halborn/0xNodes_SushiSwap_Integration_Wave2_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/0xNODES/_audits/main/Halborn/0x_Nodes_Frontend_Dapp_pentesting_Report_Halborn_Draft.pdf"

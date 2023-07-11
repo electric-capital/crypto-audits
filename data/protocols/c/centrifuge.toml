@@ -1,0 +1,22 @@
+# Protocol Level Information
+title = "centrifuge"
+website = "https://tinlake.centrifuge.io"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/centrifuge/security/main/audits/chain/LA-Centrifuge-Chain.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/centrifuge/security/main/audits/chain/SRLabs-baseline-report_2022.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/centrifuge/security/main/audits/chain/chainbridge-audit-2020-04.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/centrifuge/security/main/audits/node/Trail-of-Bits-Audit.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/centrifuge/security/main/audits/tinlake/LA-Tinlake-Audit-v0.2.5.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/centrifuge/security/main/audits/tinlake/LA-Tinlake-Audit-v0.3.0.pdf"

@@ -1,0 +1,16 @@
+# Protocol Level Information
+title = "pickle"
+website = "https://pickle.finance/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/pickle-finance/protocol/master/audits/Haechi_Audit.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/pickle-finance/protocol/master/audits/MixBytes_Audit_All_Strategies.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/pickle-finance/protocol/master/audits/MixBytes_Audit_Curve_Strategy.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/pickle-finance/protocol/master/audits/PeckShield-Audit-Report-Gauge-GaugeProxy-v1.0.pdf"

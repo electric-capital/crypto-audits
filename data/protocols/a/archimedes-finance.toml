@@ -1,0 +1,13 @@
+# Protocol Level Information
+title = "archimedes-finance"
+website = "https://archimedesfi.com/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/thisisarchimedes/Archimedes_Finance/main/audit/Archimedes_Finance_Auctions_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/thisisarchimedes/Archimedes_Finance/main/audit/Archimedes_Finance_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/thisisarchimedes/Archimedes_Finance/main/audit/Archimedes_Finance_Zapper_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf"

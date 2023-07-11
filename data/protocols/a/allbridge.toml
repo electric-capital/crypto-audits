@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "allbridge"
+website = "https://allbridge.io"
+
+# Audits
+[[audit]]
+url = "https://hacken.io/wp-content/uploads/2021/09/Allbridge_08092021SCAudit_Report.pdf"

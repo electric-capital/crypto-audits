@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "shibaswap"
+website = "https://shibaswap.com"
+
+# Audits
+[[audit]]
+url = "https://skynet.certik.com/projects/shib"

@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "solidly-v2"
+website = "https://solidly.com"
+
+# Audits
+[[audit]]
+url = "https://github.com/SolidlyLabs/Solidly-Audits/blob/main/audit_solidly.pdf"

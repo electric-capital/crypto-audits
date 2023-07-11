@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "aladdin-dao"
+website = "https://www.aladdin.club"
+
+# Audits
+[[audit]]
+url = "https://www.aladdin.club/audits/PeckShield-Audit-Report-AladdinDAO2-v1.0.pdf"

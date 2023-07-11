@@ -1,0 +1,13 @@
+# Protocol Level Information
+title = "mstable-cdp"
+website = "https://mstable.org/"
+
+# Audits
+[[audit]]
+url = "https://consensys.net/diligence/audits/2020/07/mstable-1.1"
+
+[[audit]]
+url = "https://skynet.certik.com/projects/mstable"
+
+[[audit]]
+url = "https://docs.google.com/viewerng/viewer?url=https://hacken.io/wp-content/uploads/2022/12/mStable_01122022_SCAudit_Report.pdf"

@@ -1,0 +1,13 @@
+# Protocol Level Information
+title = "synapse"
+website = "https://synapseprotocol.com"
+
+# Audits
+[[audit]]
+url = "https://www.certik.org/projects/nervefinance"
+
+[[audit]]
+url = "https://blog.openzeppelin.com/saddle-contracts-audit/"
+
+[[audit]]
+url = "https://github.com/saddle-finance/saddle-audits/blob/master/12-09-2020_Quantstamp.pdf"

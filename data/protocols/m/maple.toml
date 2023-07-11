@@ -1,0 +1,13 @@
+# Protocol Level Information
+title = "maple"
+website = "https://www.maple.finance"
+
+# Audits
+[[audit]]
+url = "https://github.com/maple-labs/maple-core/files/6423601/PeckShield-Audit-Report-Maple-v1.0.1.pdf"
+
+[[audit]]
+url = "https://code423n4.com/reports/2021-04-maple/"
+
+[[audit]]
+url = "https://github.com/maple-labs/maple-core/files/6423621/Dedaub-Audit-Report-Maple-Core.2.pdf"

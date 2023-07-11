@@ -1,0 +1,31 @@
+# Protocol Level Information
+title = "badger-dao"
+website = "https://badger.com/"
+
+# Audits
+[[audit]]
+url = "https://badger.com/images/uploads/zokyo-badger-sc-audit.pdf"
+
+[[audit]]
+url = "https://badger.com/images/uploads/haechi-audit-badgerdao-smart-contract-audit-report-1.pdf"
+
+[[audit]]
+url = "https://badger.com/images/uploads/defi-yield-badger-finance.pdf"
+
+[[audit]]
+url = "https://badger.com/images/uploads/quantstamp-badger-ib-btc.pdf"
+
+[[audit]]
+url = "https://code4rena.com/reports/2021-09-bvecvx/"
+
+[[audit]]
+url = "https://code4rena.com/reports/2021-10-badgerdao/"
+
+[[audit]]
+url = "https://github.com/Badger-Finance/badger-vaults-1.5/blob/main/security/audits/Badger%20Vaults%201.5%20-%20Quantstamp%20-%20Jan%202022.pdf"
+
+[[audit]]
+url = "https://code4rena.com/reports/2022-02-badger-citadel/"
+
+[[audit]]
+url = "https://code4rena.com/contests/2022-06-badger-vested-aura-contest"

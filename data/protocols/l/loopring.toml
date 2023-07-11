@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "loopring"
+website = "https://loopring.org/#/"
+
+# Audits
+[[audit]]
+url = "https://loopring.org/resources/loopring1.0_audit.pdf"

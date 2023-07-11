@@ -1,0 +1,61 @@
+# Protocol Level Information
+title = "dforce"
+website = "https://dforce.network/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/dforce-network/documents/master/audit_report/DF/df_audit_report_2020_36_en_1_0.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/dforce-network/documents/master/audit_report/DIP001/CN/DIP001_audit_report_2020_03_cn_1_0.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/dforce-network/documents/master/audit_report/DIP001/EN/DIP001_audit_report_2020_0305_en_1.0.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/dforce-network/documents/master/audit_report/GOLDx/CN/SmartContractSecurityAudit-GOLDx.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/dforce-network/documents/master/audit_report/GOLDx/EN/SmartContractSecurityAudit-GOLDx.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/dforce-network/documents/master/audit_report/Govern/REP-DFORCE-GOVERNANCE-2021-10-22.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/dforce-network/documents/master/audit_report/Lending/dForceLending-Audit-Report-Certik-Feb-2021.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/dforce-network/documents/master/audit_report/Lending/dForceLending-Audit-Report-Certora-Feb-2021.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/dforce-network/documents/master/audit_report/Lending/dForceLending-Audit-Report-Consensys-Mar-2021.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/dforce-network/documents/master/audit_report/Lending/dForceLending-Audit-Report-TrailofBits-Mar-2021.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/dforce-network/documents/master/audit_report/Staking/PeckShield-Audit-Report-dForceVoteEscrow-v1.0.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/dforce-network/documents/master/audit_report/USDx/CN/PeckShield_audit_report_zh.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/dforce-network/documents/master/audit_report/USDx/CN/SlowMist_audit_report_zh.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/dforce-network/documents/master/audit_report/USDx/EN/PeckShield-Audit-Report-dForce-v1.0.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/dforce-network/documents/master/audit_report/USDx/EN/PeckShield_audit_report_en.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/dforce-network/documents/master/audit_report/USDx/EN/Quantstamp-Audti-Report-dForce.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/dforce-network/documents/master/audit_report/USDx/EN/SlowMist_audit_report_en.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/dforce-network/documents/master/audit_report/dToken/dToken_Assessment_Summary.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/dforce-network/documents/master/audit_report/xSwap/EN/XSwap_audit_report_2020_05_en_1_0_rc1.pdf"

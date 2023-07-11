@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "conic-finance"
+website = "https://conic.finance"
+
+# Audits
+[[audit]]
+url = "https://conic.finance/media/PeckShield-Audit-Report-ConicFinance.pdf"

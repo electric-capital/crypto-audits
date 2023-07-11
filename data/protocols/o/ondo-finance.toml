@@ -1,0 +1,22 @@
+# Protocol Level Information
+title = "ondo-finance"
+website = "https://ondo.finance"
+
+# Audits
+[[audit]]
+url = "https://code4rena.com/reports/2023-01-ondo/"
+
+[[audit]]
+url = "https://docs.ondo.finance/assets/files/Ondo-ABDK-Audit-October-2022-b08d29dce81d383e0d2c05fbf51af385.pdf"
+
+[[audit]]
+url = "https://docs.ondo.finance/assets/files/Ondo-Quantstamp-Audit-January_2022-c670ae4579ad332729bcc271612dda74.pdf"
+
+[[audit]]
+url = "https://docs.ondo.finance/assets/files/Ondo-Quantstamp-Audit-September_2021-e88db2890f34eb38869ad915e3dafda4.pdf"
+
+[[audit]]
+url = "https://docs.ondo.finance/assets/files/Ondo-Peckshield-Audit-May_2021-5abc6be508a5f6105a4c12a925262a2b.pdf"
+
+[[audit]]
+url = "https://docs.ondo.finance/assets/files/Ondo-Certik-Audit-April_2021-89b12280795b7fa94013652f6f986769.pdf"

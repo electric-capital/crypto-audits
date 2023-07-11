@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "alchemix"
+website = "https://alchemix.fi/"
+
+# Audits
+[[audit]]
+url = "https://github.com/runtimeverification/publications/blob/main/reports/smart-contracts/Alchemix_v2.pdf"

@@ -1,0 +1,10 @@
+# Protocol Level Information
+title = "alongside"
+website = "https://alongside.xyz/"
+
+# Audits
+[[audit]]
+url = "https://github.com/Alongside-Finance/Audits/blob/main/SigmaPrime_Sept_28.pdf"
+
+[[audit]]
+url = "https://github.com/Alongside-Finance/Audits/blob/main/Solidified_April_22.pdf"

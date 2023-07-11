@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "cream-lending"
+website = "https://cream.finance/"
+
+# Audits
+[[audit]]
+url = "https://github.com/trailofbits/publications/blob/master/reviews/CREAMSummary.pdf"

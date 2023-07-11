@@ -1,0 +1,10 @@
+# Protocol Level Information
+title = "flamincome"
+website = "https://flamincome.finance"
+
+# Audits
+[[audit]]
+url = "https://github.com/flamincome/audits/blob/master/NormalizerMethane-b8aaac5db9653b55fa63428e037e4c7ddf4803ed.pdf"
+
+[[audit]]
+url = "https://github.com/flamincome/audits/blob/master/NormalizerMethane-d7b7d126bb7e35496a46c67f31d07b7243857711.pdf"

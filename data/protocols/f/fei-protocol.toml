@@ -1,0 +1,28 @@
+# Protocol Level Information
+title = "fei-protocol"
+website = "https://fei.money/"
+
+# Audits
+[[audit]]
+url = "https://github.com/fei-protocol/protocol-v2/blob/8f94a9c11c03b2d7eeb0079395e305a811cc6447/audits/Certik-aave-v2-03-12-2020.pdf"
+
+[[audit]]
+url = "https://github.com/fei-protocol/protocol-v2/blob/8f94a9c11c03b2d7eeb0079395e305a811cc6447/audits/Certora-FV-aave-v2-03-12-2020.pdf"
+
+[[audit]]
+url = "https://github.com/fei-protocol/protocol-v2/blob/8f94a9c11c03b2d7eeb0079395e305a811cc6447/audits/Mixbytes-aave-v2-03-12-2020.pdf"
+
+[[audit]]
+url = "https://github.com/fei-protocol/protocol-v2/blob/8f94a9c11c03b2d7eeb0079395e305a811cc6447/audits/PeckShield-aave-v2-03-12-2020-CN.pdf"
+
+[[audit]]
+url = "https://github.com/fei-protocol/protocol-v2/blob/8f94a9c11c03b2d7eeb0079395e305a811cc6447/audits/Peckshield-aave-v2-03-12-2020-EN.pdf"
+
+[[audit]]
+url = "https://github.com/fei-protocol/protocol-v2/blob/8f94a9c11c03b2d7eeb0079395e305a811cc6447/audits/SigmaPrime-aave-v2-01-2021.pdf"
+
+[[audit]]
+url = "https://blog.openzeppelin.com/fei-protocol-audit"
+
+[[audit]]
+url = "https://consensys.net/diligence/audits/2021/01/fei-protocol/"

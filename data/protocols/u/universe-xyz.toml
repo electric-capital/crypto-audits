@@ -1,0 +1,13 @@
+# Protocol Level Information
+title = "universe-xyz"
+website = "https://universe.xyz"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/UniverseXYZ/xyzDAO-PM/master/audits/HAECHI-DAO.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/UniverseXYZ/xyzDAO-PM/master/audits/PerfectAbstractions-Marketplace-Audit.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/UniverseXYZ/xyzDAO-PM/master/audits/Quantstamp-DAO.pdf"

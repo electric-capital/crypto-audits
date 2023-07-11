@@ -1,0 +1,16 @@
+# Protocol Level Information
+title = "instadapp"
+website = "https://instadapp.io/"
+
+# Audits
+[[audit]]
+url = "https://github.com/Instadapp/dsa-contracts/blob/master/audits/v1_PeckShield_Mar_2020.pdf"
+
+[[audit]]
+url = "https://github.com/Instadapp/dsa-contracts/blob/master/audits/v1_samczsun_Mar_2020.md"
+
+[[audit]]
+url = "https://github.com/Instadapp/dsa-contracts/blob/master/audits/v2_PeckShield_Mar_2021.pdf"
+
+[[audit]]
+url = "https://blog.openzeppelin.com/instadapp-audit"

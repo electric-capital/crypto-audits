@@ -1,0 +1,28 @@
+# Protocol Level Information
+title = "aave-v3"
+website = "https://aave.com"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/aave/aave-v3-core/master/audits/01-11-2021_OpenZeppelin_AaveV3.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/aave/aave-v3-core/master/audits/07-01-2022_TrailOfBits_AaveV3.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/aave/aave-v3-core/master/audits/09-12-2022_PeckShield_AaveV3-0-1.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/aave/aave-v3-core/master/audits/14-01-2022_PeckShield_AaveV3.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/aave/aave-v3-core/master/audits/19-04-2023_SigmaPrime_AaveV3-0-2.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/aave/aave-v3-core/master/audits/23-12-2022_SigmaPrime_AaveV3-0-1.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/aave/aave-v3-core/master/audits/27-01-2022_ABDK_AaveV3.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/aave/aave-v3-core/master/audits/27-01-2022_SigmaPrime_AaveV3.pdf"

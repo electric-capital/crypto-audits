@@ -1,0 +1,28 @@
+# Protocol Level Information
+title = "reflexer"
+website = "https://reflexer.finance/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/reflexer-labs/geb-audits/master/open-zeppelin/core-contracts/oz-geb-protocol-audit.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/reflexer-labs/geb-audits/master/quantstamp/curve/Reflexer%20RAI%20Curve%20Pool%20-%20Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/reflexer-labs/geb-audits/master/quantstamp/helper-contracts/first-audit/Reflexer%20Helper%20Contracts%20-%20Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/reflexer-labs/geb-audits/master/quantstamp/helper-contracts/second-audit/Reflexer%20Second%20Engagement%20-%20Final%20Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/reflexer-labs/geb-audits/master/quantstamp/staking/Reflexer%20Staking%20and%20Auction%20House%20-%20Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/reflexer-labs/geb-audits/master/solidified/backup-oracle/Audit%20Report%20-%20RAI%20Backup%20Oracles.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/reflexer-labs/geb-audits/master/solidified/helper-contracts/Solidified%20Audit%20Report%20-%20Reflexer%20%5B26.01.2021%5D.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/reflexer-labs/geb-audits/master/solidified/uniswap-v3/Audit%20Report%20-%20Uniswap%20V3%20Liquidity%20Manager%20%5B24.06.2021%5D.pdf"

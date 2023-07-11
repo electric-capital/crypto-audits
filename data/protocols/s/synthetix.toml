@@ -1,0 +1,172 @@
+# Protocol Level Information
+title = "synthetix"
+website = "https://synthetix.io"
+
+# Audits
+[[audit]]
+url = "https://github.com/sigp/public-audits/tree/master/havven-2018-04-05/README.md"
+
+[[audit]]
+url = "https://github.com/sigp/public-audits/blob/master/havven-2018-06-06/havven-review.pdf"
+
+[[audit]]
+url = "https://old.havven.io/uploads/havven_cryptecon_report_may_2018.pdf"
+
+[[audit]]
+url = "https://github.com/sigp/public-audits/blob/master/havven-2018-06-18/review.pdf"
+
+[[audit]]
+url = "https://github.com/sigp/public-audits/blob/master/synthetix/multicurrency/review.pdf"
+
+[[audit]]
+url = "https://www.iosiro.com/audits/synthetix-phase-1-smart-contract-audit"
+
+[[audit]]
+url = "https://www.iosiro.com/audits/synthetix-phase-2-smart-contract-audit"
+
+[[audit]]
+url = "https://github.com/sigp/public-audits/blob/master/synthetix/unipool/review.pdf"
+
+[[audit]]
+url = "https://www.iosiro.com/audits/synthetix-SIP37-smart-contract-audit"
+
+[[audit]]
+url = "https://github.com/sigp/public-audits/blob/master/synthetix/ethercollateral/review.pdf"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-pr-435-smart-contract-audit"
+
+[[audit]]
+url = "https://github.com/sigp/public-audits/blob/master/synthetix/delegates/review.pdf"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-sip-44-and-sip-46-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-altair-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-acrux-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-pollux-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-fomalhaut-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-deneb-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-mimosa-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-shaula-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-castor-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-release-bellatrix-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-izar-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-caph-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-naos-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-schedar-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-mintaka-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-alphecca-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-suhail-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-aspidiske-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-muhlifain-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-tiaki-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-algol-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-denebola-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-saiph-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-kochab-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-rasalhague-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-alpheratz-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-mirarch-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-mizar-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-didpha-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-hamal-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-alphard-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-alsephina-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-peacock-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-atria-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-menkalinan-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-alkaid-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-avior-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-kaus-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-sargas-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-mirfak-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-alnitak-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-aloith-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-alnair-release-smart-contract-audit"
+
+[[audit]]
+url = "https://iosiro.com/audits/synthetix-alnilam-release-smart-contract-audit"

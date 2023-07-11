@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "boringdao"
+website = "https://www.boringdao.com/"
+
+# Audits
+[[audit]]
+url = "https://github.com/BoringDAO/boringDAO-contract/blob/master/peckshield-audit-report-boringdao-v1.0rc.pdf"

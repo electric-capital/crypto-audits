@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "basis-cash"
+website = "https://basis.cash/"
+
+# Audits
+[[audit]]
+url = "https://www.dropbox.com/s/ed5vxvaple5e740/REP-Basis-Cash-06_11_2020.pdf"

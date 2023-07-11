@@ -1,0 +1,13 @@
+# Protocol Level Information
+title = "bancor-v3"
+website = "https://app.bancor.network/"
+
+# Audits
+[[audit]]
+url = "https://github.com/bancorprotocol/contracts-v3/blob/dev/docs/audits/PeckShield-Audit-Report-BancorV3-v1.0.pdf"
+
+[[audit]]
+url = "https://github.com/bancorprotocol/contracts-v3/blob/dev/docs/audits/OpenZeppelin-V3-Audit-Report.pdf"
+
+[[audit]]
+url = "https://github.com/bancorprotocol/contracts-v3/blob/dev/docs/audits/OpenZeppelin-AutoCompoundingRewards-Audit-Report.pdf"

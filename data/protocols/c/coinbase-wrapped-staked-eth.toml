@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "coinbase-wrapped-staked-eth"
+website = "https://www.coinbase.com/price/coinbase-wrapped-staked-eth"
+
+# Audits
+[[audit]]
+url = "https://blog.openzeppelin.com/coinbase-liquid-staking-token-audit"

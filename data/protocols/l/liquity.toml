@@ -1,0 +1,16 @@
+# Protocol Level Information
+title = "liquity"
+website = "https://www.liquity.org/"
+
+# Audits
+[[audit]]
+url = "https://github.com/trailofbits/publications/blob/master/reviews/Liquity.pdf"
+
+[[audit]]
+url = "https://www.coinspect.com/doc/Liquity%20-%20Smart%20Contract%20Audit%202021.pdf"
+
+[[audit]]
+url = "https://github.com/trailofbits/publications/blob/master/reviews/LiquityProtocolandStabilityPoolFinalReport.pdf"
+
+[[audit]]
+url = "https://github.com/trailofbits/publications/blob/master/reviews/LiquityProxyContracts.pdf"

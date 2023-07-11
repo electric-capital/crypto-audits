@@ -1,0 +1,16 @@
+# Protocol Level Information
+title = "onx-finance"
+website = "https://onx.finance"
+
+# Audits
+[[audit]]
+url = "https://onx-finance.gitbook.io/docs/audits-and-contracts/audit"
+
+[[audit]]
+url = "https://onx-finance.gitbook.io/docs/audits-and-contracts/audit-1"
+
+[[audit]]
+url = "https://onx-finance.gitbook.io/docs/audits-and-contracts/lending-audit"
+
+[[audit]]
+url = "https://onx-finance.gitbook.io/docs/audits-and-contracts/alpha-audit"

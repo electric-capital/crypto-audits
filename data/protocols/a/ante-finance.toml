@@ -1,0 +1,13 @@
+# Protocol Level Information
+title = "ante-finance"
+website = "https://ante.finance"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/antefinance/ante-v05-core/v0.5/audit/2022-05-22%20Ante%20v0.5%20Zellic%20Audit%20Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/antefinance/ante-v05-core/v0.5/audit/2022-06-22%20Ante%20v0.5%20Trail%20of%20Bits%20Fix%20Review.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/antefinance/ante-v05-core/v0.5/audit/2022-06-22%20Ante%20v0.5%20Trail%20of%20Bits%20Security%20Assessment.pdf"

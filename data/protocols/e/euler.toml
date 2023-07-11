@@ -1,0 +1,31 @@
+# Protocol Level Information
+title = "euler"
+website = "https://www.euler.finance"
+
+# Audits
+[[audit]]
+url = "https://omniscia.io/reports/euler-finance-swaphub/"
+
+[[audit]]
+url = "https://www.hacknote.co/17c261f7d8fWbdml/1821f966f40pJG_t#n_0"
+
+[[audit]]
+url = "https://omniscia.io/reports/euler-finance-chainlink-support/"
+
+[[audit]]
+url = "https://omniscia.io/euler-merkle-mining-staking/"
+
+[[audit]]
+url = "https://github.com/euler-xyz/euler-audits/blob/master/smart_contract_audits/Euler_-_Sherlock_Report.pdf"
+
+[[audit]]
+url = "https://github.com/euler-xyz/euler-audits/blob/master/smart_contract_audits/Formal_Verification_Report_for_Euler.pdf"
+
+[[audit]]
+url = "https://github.com/euler-xyz/euler-audits/blob/master/smart_contract_audits/Euler_Smart_Contract_Security_Audit_Halborn_v_1_1.pdf"
+
+[[audit]]
+url = "https://github.com/euler-xyz/euler-audits/blob/master/smart_contract_audits/Audit%20Report%20-%20Euler%20-%20[07.05.2021].pdf"
+
+[[audit]]
+url = "https://github.com/euler-xyz/euler-audits/blob/master/ui_audits/PenTestPartners_EulerDApp_Jun22_v1_0.pdf"

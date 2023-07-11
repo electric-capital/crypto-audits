@@ -1,0 +1,10 @@
+# Protocol Level Information
+title = "apy-finance"
+website = "https://apy.finance"
+
+# Audits
+[[audit]]
+url = "https://github.com/apy-finance/apy-audits/blob/main/APY_Finance_governance_token_reward_halborn_report_V1.1.pdf"
+
+[[audit]]
+url = "https://github.com/apy-finance/apy-audits/blob/main/ApyFinance_smartcontract_halborn_report_V1.pdf"

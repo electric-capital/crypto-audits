@@ -1,0 +1,49 @@
+# Protocol Level Information
+title = "enzyme-finance"
+website = "https://enzyme.finance/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/enzymefinance/protocol/v4/audits/2021-01-CS-protocol-v2.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/enzymefinance/protocol/v4/audits/2021-09-CS-protocol-v4.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/enzymefinance/protocol/v4/audits/2021-10-OZ-protocol-v4.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/enzymefinance/protocol/v4/audits/2021-12-CS-fund-value-calculator-address-list-registry-paraswap-pool-together-uniswap.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/enzymefinance/protocol/v4/audits/2022-01-CS-protocol-v4-revisions-curve-synthetix-olympus-compound.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/enzymefinance/protocol/v4/audits/2022-02-CS-protocol-v4-revisions-performance-fee-convex.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/enzymefinance/protocol/v4/audits/2022-03-CS-aave-borrowing-fuse-lending-uniswap-v3-lp-rev-usdeth-simulated-aggregator.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/enzymefinance/protocol/v4/audits/2022-05-CS-curve-fixes-maple-shares-splitter-convex-voting-paraswap-fee-liquity-graph-delegation.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/enzymefinance/protocol/v4/audits/2022-08-CS-arbitrary-loans-solv-convertibles-fidu-unit-lists-manager-policies-deposit-wrapper-fix.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/enzymefinance/protocol/v4/audits/2022-10-CS--compound-cdp-fix--protocol-fee-reserve-arbitrary-call--balancer-lp--balancer-weighted-pool-feed--notional-lending-and-borrowing.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/enzymefinance/protocol/v4/audits/2022-11-CS--balancer-and-aura-staking--balancer-stable-pool-feed--kiln-staking--paraswap-multi-order--arbitrary-deposit-token-shares-wrapper.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/enzymefinance/protocol/v4/audits/2022-12-CS--maple-v2-migration--aave-v3-lending--compound-v3-lending--wsteth-price-feed.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/enzymefinance/protocol/v4/audits/2023-02-CS--gated-redemption-shares-wrapper--balancer-v2-batch-swap--uniswap-v2-fee-on-transfer-tokens--solv-v2-bonds.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/enzymefinance/protocol/v4/audits/2023-03-CS--gsn-fix.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/enzymefinance/protocol/v4/audits/2023-05-CS--zero-ex-v4--1inch-v5--paraswap-v5-updates--gated-shares-wrapper-updates.pdf"

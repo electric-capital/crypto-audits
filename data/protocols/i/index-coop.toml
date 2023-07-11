@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "index-coop"
+website = "https://www.indexcoop.com/"
+
+# Audits
+[[audit]]
+url = "https://blog.openzeppelin.com/set-protocol-audit/"

@@ -1,0 +1,10 @@
+# Protocol Level Information
+title = "hegic"
+website = "https://www.hegic.co/ "
+
+# Audits
+[[audit]]
+url = "https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-Hegic-v1.0.pdf"
+
+[[audit]]
+url = "https://github.com/hegic/contracts/blob/main/packages/herge/docs/PeckShield-Audit-Report-Hegic-Herge-Protocol-Upgrade-v1.0.pdf"

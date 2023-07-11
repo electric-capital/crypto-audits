@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "cryptex-v1"
+website = "https://cryptex.finance/"
+
+# Audits
+[[audit]]
+url = "https://cryptex.finance/Cryptex_-_Final_Report.pdf"

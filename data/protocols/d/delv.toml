@@ -1,0 +1,10 @@
+# Protocol Level Information
+title = "delv"
+website = "https://www.element.fi"
+
+# Audits
+[[audit]]
+url = "https://github.com/delvtech/elf-contracts/blob/main/audits/Runtime_Verification_Security_Audit_Report.pdf"
+
+[[audit]]
+url = "https://github.com/delvtech/elf-contracts/blob/main/audits/PeckShield-Audit-Report.pdf"

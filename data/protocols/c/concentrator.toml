@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "concentrator"
+website = "https://concentrator.aladdin.club/"
+
+# Audits
+[[audit]]
+url = "https://aladdin.club/audits/AladdinDao_V3_Report_Secbit.pdf"

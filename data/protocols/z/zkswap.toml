@@ -1,0 +1,25 @@
+# Protocol Level Information
+title = "zkswap"
+website = "https://zks.org/en"
+
+# Audits
+[[audit]]
+url = "https://github.com/l2labs/zkswap-security-audit-certification/blob/main/V1/SlowMist-ZKSwap-Security-Audit-Report.pdf"
+
+[[audit]]
+url = "https://www.slowmist.com/en/security-audit-certificate.html?id=760b6758420b5ca81da27465411641fb5df7e77462aa31b4932fe4d75b88c270"
+
+[[audit]]
+url = "https://www.slowmist.com/en/security-audit-certificate.html?id=cbbcb6d3113999c3042c79b79a633122e13060a2f0e6ecd2b1bc1e9a306dbbc4"
+
+[[audit]]
+url = "https://github.com/l2labs/zkswap-security-audit-certification/blob/main/V2/ABDK_ZKSwap_RustAndSolidity_v_2.pdf"
+
+[[audit]]
+url = "https://www.certik.org/projects/zkswap"
+
+[[audit]]
+url = "https://github.com/l2labs/zkswap-security-audit-certification/blob/main/V3/SlowMist_Audit_Report_ZKSwap_V3.pdf"
+
+[[audit]]
+url = "https://github.com/l2labs/zkswap-security-audit-certification/blob/main/V3/ABDK_ZKSwap_V3_v_1_0.pdf"

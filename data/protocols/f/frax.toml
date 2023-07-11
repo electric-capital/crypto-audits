@@ -1,0 +1,22 @@
+# Protocol Level Information
+title = "frax"
+website = "https://frax.finance/"
+
+# Audits
+[[audit]]
+url = "https://www.certik.com/projects/fraxfinance"
+
+[[audit]]
+url = "https://github.com/trailofbits/publications/blob/master/reviews/FraxFinance.pdf"
+
+[[audit]]
+url = "https://github.com/trailofbits/publications/blob/master/reviews/FraxQ42021.pdf"
+
+[[audit]]
+url = "https://github.com/trailofbits/publications/blob/master/reviews/FraxQ22022.pdf"
+
+[[audit]]
+url = "https://code4rena.com/reports/2022-09-frax"
+
+[[audit]]
+url = "https://github.com/trailofbits/publications/blob/master/reviews/2022-10-fraxfinance-fraxlend-fraxferry-securityreview.pdf"

@@ -1,0 +1,16 @@
+# Protocol Level Information
+title = "arcade-xyz"
+website = "https://www.arcade.xyz"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/arcadexyz/v2-contracts/main/audits/V1_Lending_LeastAuthority_2021-08.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/arcadexyz/v2-contracts/main/audits/V1_Lending_Macro_2022-04.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/arcadexyz/v2-contracts/main/audits/V2_Lending_Quantstamp_2022_06.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/arcadexyz/v2-contracts/main/audits/V2_Lending_Roku_2022_06.pdf"

@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "uniswap-v3"
+website = "https://uniswap.org/"
+
+# Audits
+[[audit]]
+url = "https://github.com/Uniswap/v3-core/blob/main/audits/abdk/audit.pdf"

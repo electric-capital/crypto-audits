@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "frax-ether"
+website = "https://app.frax.finance/frxeth/mint"
+
+# Audits
+[[audit]]
+url = "https://code4rena.com/reports/2022-09-frax"

@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "sushiswap"
+website = "https://sushi.com/"
+
+# Audits
+[[audit]]
+url = "https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-SushiSwap-v1.0.pdf"

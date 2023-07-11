@@ -1,0 +1,16 @@
+# Protocol Level Information
+title = "templedao"
+website = "https://www.templedao.link"
+
+# Audits
+[[audit]]
+url = "https://3192837185-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McG7st47-ZST4fx_Lnt%2Fuploads%2FgvGiM9sBiHoJH1IUCCGb%2F2022-12-13-Peckshield-Audit-TempleRAMOS.pdf?alt=media&token=191a8a79-bbd7-48fb-a865-88cfa39b621c"
+
+[[audit]]
+url = "https://3192837185-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McG7st47-ZST4fx_Lnt%2Fuploads%2F48KvsIyGJ0G8xjdnr7jn%2F2022-06-10-PeckShield-Audit-TempleCore.pdf?alt=media&token=a4bf709e-eca6-4a16-bb6b-9e1e6aa85d0e"
+
+[[audit]]
+url = "https://3192837185-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McG7st47-ZST4fx_Lnt%2Fuploads%2F1HhIaiNGlUh6Tf0DzITf%2F2022-04-28-PeckShield-Audit-TempleAMM.pdf?alt=media&token=5409a0cb-146c-4414-8624-dbb7e05eecbc"
+
+[[audit]]
+url = "https://3192837185-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McG7st47-ZST4fx_Lnt%2Fuploads%2FtuGI0MDvRYLchvB2xNO1%2FDefiSafety.Process_Quality_Review.TempleDAO.pdf?alt=media&token=f5b9cb06-4838-4e87-877c-770a15c1d507"

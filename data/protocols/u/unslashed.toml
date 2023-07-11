@@ -1,0 +1,13 @@
+# Protocol Level Information
+title = "unslashed"
+website = "https://unslashed.finance/"
+
+# Audits
+[[audit]]
+url = "https://unslashed.finance/audit-1.pdf"
+
+[[audit]]
+url = "https://unslashed.finance/audit-2.pdf"
+
+[[audit]]
+url = "https://unslashed.finance/audit-3.pdf"

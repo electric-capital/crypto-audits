@@ -1,0 +1,19 @@
+# Protocol Level Information
+title = "saddle-finance"
+website = "https://saddle.finance/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/saddle-finance/saddle-audits/master/03-31-2021_Quantstamp_VirtualSwap.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/saddle-finance/saddle-audits/master/10-27-2021_Quantstamp_Token.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/saddle-finance/saddle-audits/master/10-29-2020_Certik.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/saddle-finance/saddle-audits/master/11-30-2022_Least_Authority_Metapools.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/saddle-finance/saddle-audits/master/12-09-2020_Quantstamp.pdf"

@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "orbit-bridge"
+website = "https://bridge.orbitchain.io"
+
+# Audits
+[[audit]]
+url = "https://github.com/orbit-chain/bridge-contract/blob/master/audit/Theori_OrbitBridge_2022_1Q.pdf"

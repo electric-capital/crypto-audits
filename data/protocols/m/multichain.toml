@@ -1,0 +1,52 @@
+# Protocol Level Information
+title = "multichain"
+website = "https://multichain.org/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/anyswap/Anyswap-Audit/master/BlockSec/blocksec_audit_multichain_routerv7_v1.0-signed.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/anyswap/Anyswap-Audit/master/BlockSec/blocksec_audit_multichain_v1.0-signed.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/anyswap/Anyswap-Audit/master/CertiK/CertiK_Public_Audit_Report_Multichain_Aptos_Router.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/anyswap/Anyswap-Audit/master/CertiK/CertiK_Public_Audit_Report_Multichain_Cardano_Router.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/anyswap/Anyswap-Audit/master/Coinspect/Coinspect%20-%20Security%20Assessment%20-%20Multichain%20Stellar%20-%20V230330.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/anyswap/Anyswap-Audit/master/DEDAUB/Multichain%20Contract%20V6%20Audit%20Report%20by%20Dedaub.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/anyswap/Anyswap-Audit/master/PeckShield/PeckShield-Audit-Report-MultiChainV6-v1.0.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/anyswap/Anyswap-Audit/master/SlowMist/AnySwap%20CrossChain-Bridge%20Security%20Audit%20Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/anyswap/Anyswap-Audit/master/SlowMist/AnySwap%20%E8%B7%A8%E9%93%BE%E6%A1%A5%E7%99%BD%E7%9B%92%E5%AE%89%E5%85%A8%E5%AE%A1%E8%AE%A1%E6%8A%A5%E5%91%8A.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/anyswap/Anyswap-Audit/master/SlowMist/Anyswap%20Smart%20Contract%20Security%20Audit.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/anyswap/Anyswap-Audit/master/SlowMist/SlowMist%20Audit%20Report%20-%20AnySwap%20AnyCall%20App.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/anyswap/Anyswap-Audit/master/SlowMist/%E6%99%BA%E8%83%BD%E5%90%88%E7%BA%A6%E5%AE%A1%E8%AE%A1%E6%8A%A5%E5%91%8ADApp%20-%20Anyswap.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/anyswap/Anyswap-Audit/master/TrailOfBits/AnySwap%20Threshold-DSA%20Final%20Report%20Edited.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/anyswap/Anyswap-Audit/master/TrailOfBits/Anyswap-CrossChain-Bridge-TrailofBits-Audit-Final%20Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/anyswap/Anyswap-Audit/master/Verichain/Verichains_Public_Audit_Report_Multichain_Solana_Router_v1_1.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/anyswap/Anyswap-Audit/master/whitepaper/Anyswap-whitepaper.pdf"

@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "uniswap-v1"
+website = "https://uniswap.org/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/Consensys/Uniswap-audit-report-2018-12/master/Uniswap-final.md"

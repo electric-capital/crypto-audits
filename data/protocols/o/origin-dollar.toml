@@ -1,0 +1,49 @@
+# Protocol Level Information
+title = "origin-dollar"
+website = "https://www.ousd.com"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/OriginProtocol/security/master/audits/Narya%20-%20Origin%20OETH%20Report%20-%20May%202023%20-%20Initial%20Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/OriginProtocol/security/master/audits/OpenZeppelin%20-%20Origin%20Dollar%20-%20October%202021.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/OriginProtocol/security/master/audits/OpenZeppelin%20-%20Origin%20Dollar%20Convex%20-%20October%202022.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/OriginProtocol/security/master/audits/OpenZeppelin%20-%20Origin%20Dollar%20Dripper%20%26%20Uniswap%20strategy%20-%20April%202023.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/OriginProtocol/security/master/audits/OpenZeppelin%20-%20Origin%20Dollar%20Governance%20-%20June%202022.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/OriginProtocol/security/master/audits/OpenZeppelin%20-%20Origin%20Dollar%20OETH%20Integration%20-%20May%202023.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/OriginProtocol/security/master/audits/Solidified%20-%20OGN%20Staking%20-%20Dec%202020.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/OriginProtocol/security/master/audits/Solidified%20-%20OGN%20Staking%20-%20July%202022.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/OriginProtocol/security/master/audits/Solidified%20-%20OGV%2C%20wOUSD%2C%20and%20ERC721a%20-%20May%202022.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/OriginProtocol/security/master/audits/Solidified%20-%20Origin%20Dollar%20-%20Dec%202020.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/OriginProtocol/security/master/audits/Trail%20of%20Bits%20-%20Origin%20Dollar%20-%20Dec%202020.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/OriginProtocol/security/master/audits/Trail%20of%20Bits%20-%20Origin%20Marketplace%20and%20OGN%20Token%20-%20Nov%202018.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/OriginProtocol/security/master/audits/community/CyberScope%20-%20OGN%20Staking%20-%20Dec%202022.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/OriginProtocol/security/master/audits/community/Origin%20Dollar%20-%20Rappie%20-%20Rebase%20PR%201239%20Audit%20-%20March%202023.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/OriginProtocol/security/master/audits/community/Origin%20Dollar%20-%20Rappie%20-%20Rounding%20Errors%20Research%20and%20Analysis%20-%20April%202023.md"

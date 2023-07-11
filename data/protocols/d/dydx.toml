@@ -1,0 +1,28 @@
+# Protocol Level Information
+title = "dydx"
+website = "https://dydx.exchange/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/starkware-libs/starkex-contracts/master/audit/Cairo_and_SHARP_Verifiers_v3.0_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/starkware-libs/starkex-contracts/master/audit/EVM_STARK_Verifier_v4.0_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/starkware-libs/starkex-contracts/master/audit/StarkEx_v1.0_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/starkware-libs/starkex-contracts/master/audit/StarkEx_v2.0_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/starkware-libs/starkex-contracts/master/audit/StarkEx_v3.0_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/starkware-libs/starkex-contracts/master/audit/StarkEx_v4.0_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/starkware-libs/starkex-contracts/master/audit/StarkEx_v4.5_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/starkware-libs/starkex-contracts/master/audit/StarkPerpetual_v1.0_Audit_Report.pdf"

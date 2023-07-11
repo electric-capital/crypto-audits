@@ -1,0 +1,13 @@
+# Protocol Level Information
+title = "fiat-dao"
+website = "https://fiatdao.com/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/fiatdao/security/234b220b5e837e5fd4f5ef1c8f0e7a59a5ce2ba3/audits/2022-01/Coinspect%20-%20Smart%20Contract%20Audit%20-%20FIATDAO%20-%20FIAT%20Protocol%20-%20v220406.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/fiatdao/security/234b220b5e837e5fd4f5ef1c8f0e7a59a5ce2ba3/audits/2022-02/Coinspect%20-%20Smart%20Contract%20Audit%20-%20FIATDAO%20-%20Vaults%20and%20Actions%20-%20v220406.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/fiatdao/security/234b220b5e837e5fd4f5ef1c8f0e7a59a5ce2ba3/audits/2022-03/Dedaub%20-%20FIAT%20DAO%20Delphi%20Audit%2C%20Feb'22.pdf"

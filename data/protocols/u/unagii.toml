@@ -1,0 +1,16 @@
+# Protocol Level Information
+title = "unagii"
+website = "https://www.unagii.com/"
+
+# Audits
+[[audit]]
+url = "https://uploads-ssl.webflow.com/5fbe7f70050a5fae359118c9/60055f491a3798c6e8abfd23_REP-UNAGII.COM-23_12_2020-STASH-VAULT.pdf"
+
+[[audit]]
+url = "https://uploads-ssl.webflow.com/5fbe7f70050a5fae359118c9/6065dd441fda64c7f85639d5_certik-2021-03-10.pdf"
+
+[[audit]]
+url = "https://github.com/stakewithus/uvault/blob/master/audit/certik-2021-05-14.pdf"
+
+[[audit]]
+url = "https://github.com/stakewithus/uvault/blob/master/audit/certik-2021-07-25.pdf"

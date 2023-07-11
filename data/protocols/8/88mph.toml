@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "88mph"
+website = "https://88mph.app/"
+
+# Audits
+[[audit]]
+url = "https://github.com/peckshield/publications/blob/master/audit_reports/peckshield-audit-report-88mph-v1.0.pdf"

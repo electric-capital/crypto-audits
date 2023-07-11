@@ -1,0 +1,37 @@
+# Protocol Level Information
+title = "portal"
+website = "https://portalbridge.com"
+
+# Audits
+[[audit]]
+url = "https://storage.googleapis.com/wormhole-audits/2022-01-10_neodyme.pdf"
+
+[[audit]]
+url = "https://storage.googleapis.com/wormhole-audits/2022-01-10_neodyme.pdf"
+
+[[audit]]
+url = "https://storage.googleapis.com/wormhole-audits/2022-08-16_kudelski.pdf"
+
+[[audit]]
+url = "https://storage.googleapis.com/wormhole-audits/Wormhole_Near_OtterSec.pdf"
+
+[[audit]]
+url = "https://storage.googleapis.com/wormhole-audits/Wormhole_Audit_Report_TrailOfBits_2022-09.pdf"
+
+[[audit]]
+url = "https://storage.googleapis.com/wormhole-audits/Wormhole_OtterSec_Aptos_2022-10.pdf"
+
+[[audit]]
+url = "https://storage.googleapis.com/wormhole-audits/Wormhole_dApp_NEAR_AuditReport_Hacken_2022-10-25.pdf"
+
+[[audit]]
+url = "https://storage.googleapis.com/wormhole-audits/Wormhole_Aptos_Audit_Report_Zellic_2022-11.pdf"
+
+[[audit]]
+url = "https://storage.googleapis.com/wormhole-audits/Wormhole_OtterSec_Aptos_NFT_2023-02.pdf"
+
+[[audit]]
+url = "https://storage.googleapis.com/wormhole-audits/Wormhole_Audit_Report_TrailOfBits_2023-04.pdf"
+
+[[audit]]
+url = "https://storage.googleapis.com/wormhole-audits/Wormhole_OtterSec_Sui_2023-04.pdf"

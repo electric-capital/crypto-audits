@@ -1,0 +1,61 @@
+# Protocol Level Information
+title = "morpho-aave"
+website = "https://aavev2.morpho.org/?network=mainnet"
+
+# Audits
+[[audit]]
+url = "https://cdn.morpho.org/documents/Spearbit_19062023.pdf"
+
+[[audit]]
+url = "https://cdn.morpho.xyz/documents/Spearbit_04052023.pdf"
+
+[[audit]]
+url = "https://cdn.morpho.xyz/documents/Runtime_02052023.pdf"
+
+[[audit]]
+url = "https://cdn.morpho.xyz/documents/Spearbit_010323.pdf"
+
+[[audit]]
+url = "https://cdn.morpho.xyz/documents/Pessimistic_200223.pdf"
+
+[[audit]]
+url = "https://cdn.morpho.xyz/documents/Spearbit_morpho_draft_061222.pdf"
+
+[[audit]]
+url = "https://cdn.morpho.xyz/documents/Pessimistic_061022.pdf"
+
+[[audit]]
+url = "https://omniscia.io/reports/morpho-labs-tokenized-vaults/"
+
+[[audit]]
+url = "https://cdn.morpho.xyz/documents/MorphoAaveV2_Audit_Spearbit.pdf"
+
+[[audit]]
+url = "https://cdn.morpho.xyz/documents/MorphoAaveV3_Audit_ChainSecurity.pdf"
+
+[[audit]]
+url = "https://cdn.morpho.xyz/documents/MorphoAaveV2_Audit_Omniscia.pdf"
+
+[[audit]]
+url = "https://cdn.morpho.xyz/documents/MorphoAaveV2_Audit_Pessimistic.pdf"
+
+[[audit]]
+url = "https://cdn.morpho.xyz/documents/TrailOfBits_030622.pdf"
+
+[[audit]]
+url = "https://cdn.morpho.xyz/documents/Spearbit_090522.pdf"
+
+[[audit]]
+url = "https://cdn.morpho.xyz/documents/Pessimistic_250422.pdf"
+
+[[audit]]
+url = "https://cdn.morpho.xyz/documents/Pessimistic_080322.pdf"
+
+[[audit]]
+url = "https://cdn.morpho.xyz/documents/pessimistic_160222.pdf"
+
+[[audit]]
+url = "https://cdn.morpho.xyz/documents/Pessimistic_110122.pdf"
+
+[[audit]]
+url = "https://cdn.morpho.xyz/documents/Solidified_041121.pdf"

@@ -1,0 +1,133 @@
+# Protocol Level Information
+title = "lido"
+website = "https://lido.fi/"
+
+# Audits
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/Certora%20Lido%20V2%20Audit%20Report%2004-23.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/ChainSecurity%20Code%20Assessment%20of%20the%20Lido%20Smart%20Contracts%20Report%2008-22.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/ChainSecurity%20Lido%20Staking%20Router%20audit%20report%2002-23.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/Hexens%20Lido%20V2%20Oracle%20Security%20Review%20Report%2005-23.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/Hexens%20Lido%20V2%20Smart%20Contract%20Audit%20Report%2004-23.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/MixBytes%201inch%20Rewards%20Manager%20Security%20Audit%20Report%2009-21.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/MixBytes%20AAVE%20stETH%20integration%20Security%20Audit%20Report%2002-22.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/MixBytes%20Aragon%20Voting%20Security%20Audit%20Report%2010-2021.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/MixBytes%20Camp%20Lido%20V2%20Contest%20Report%2004-23.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/MixBytes%20Deposit%20Security%20Module%20Security%20Audit%20Report%2002-2022.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/MixBytes%20ETH2%20Oracle%20Security%20Audit%20Report%2004-2021.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/MixBytes%20Easy%20Track%20Security%20Audit%20Report%2009-2021.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/MixBytes%20In-protocol%20Coverage%20Security%20Audit%20Report%2002-2022.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/MixBytes%20Lido%20Two-Phase%20Voting%20Security%20Audit%20Report%2006-2022.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/MixBytes%20Lido_Protocol_Security_Audit_Report%2005-2022.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/MixBytes%20Note%20on%20Deployed%20Code%20Compliance%2008-22.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/MixBytes%20Withdrawals%20Manager%20Stub%20Security%20Audit%20Report%2005-2021.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/MixBytes%20bETH%20Vault%20Security%20Audit%20Report%2001-2022.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/MixBytes%20bETH%20Vault%20Security%20Audit%20Report%2007-2021.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/MixBytes%20bETH%20Vault%20Security%20Audit%20Report%2008-2021.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/MixBytes%20bETH%20Vault%20Security%20Audit%20Report.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/MixBytes%20stETH%20Price%20Feed%20Security%20Audit%20Report%2006-2021.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/MixBytes%20stETH%20price%20oracle%20Security%20Audit%20Report%2005-2021.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/MixBytes%20wstETH%20Security%20Audit%20Report%2009-2021.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/Oxorio%20Governance%20Crosschain%20Bridges%20Smart%20Contracts%20Security%20Audit%20Report%2008-2022.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/Oxorio%20Jumpgate%20Smart%20Contracts%20Security%20Audit%20Report%2005-2022.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/Oxorio%20Lido%20L2%20Smart%20Contracts%20Security%20Audit%20Report%2007-2022.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/Oxorio%20Lido%20V2%20Off-chain%20Audit%20Report%2006-23.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/Oxorio%20Lido%20V2%20On-chain%20Audit%20Report%2006-23.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/QSP%20Lido%20Report%2012-2020.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/Sigma%20Prime%20-%20Lido%20-%20dc4bc%20Security%20Assessment%20Report%20-%20v2.0%2003-2023.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/Sigma%20Prime%20-%20Lido%20-%20dc4bc%20Security%20Assessment%20Report%20-%20v2.1%2003-2023.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/Sigma%20Prime%20-%20Lido%20-%20dc4bc%20Security%20Assessment%20Report%20-%20v2.2%2003-2023.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/Sigma%20Prime%20-%20Lido%20Easy%20Track%20Smart%20Contract%20Security%20Review%20Report%20v2.0%2010-2021.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/Sigma%20Prime%20-%20Lido%20Finance%20Security%20Assessment%20Report%20v2.1.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/Statemind%20Easy%20Track%20Payment%20Processor%20with%20limits%2009-2022.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/Statemind%20GateSeals%20Audit%20Report%2004-2023.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/Statemind%20Insurance%20Fund%20Audit%20Report%2009-2022.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/Statemind%20Lido%20V2%20Audit%20Report%2004-23.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/Statemind%20Lido%20V2%20Deployment%20Validation%2005-2023.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/Statemind%20Lido%20V2%20Upgrade%20Template%20Audit%20Report%2005-2023.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/Statemind%20MEV-Boost%20relay%20allowlist%20Security%20Audit%20Report%2009-2022.pdf"
+
+[[audit]]
+url = "https://github.com/lidofinance/audits/blob/main/Statemind%20TRP%20Vesting%20Escrow%20Audit%20Report%2001-2023.pdf"

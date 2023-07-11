@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "iron-bank"
+website = "https://ib.xyz"
+
+# Audits
+[[audit]]
+url = "https://github.com/mixbytes/audits_public/blob/master/Iron%20Bank/IronBank%20Security%20Audit%20Report.pdf"

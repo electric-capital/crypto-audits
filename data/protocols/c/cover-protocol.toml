@@ -1,0 +1,19 @@
+# Protocol Level Information
+title = "cover-protocol"
+website = "https://www.coverprotocol.com/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/CoverProtocol/cover-security/master/audits/Arcadia-Cover-Blacksmith-Audit.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/CoverProtocol/cover-security/master/audits/Cover%20Protocol%20-%20Report%20-%20V2%20by%20Quantstamp.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/CoverProtocol/cover-security/master/audits/Cover%20Protocol%20v2%20Security%20Audit%20Report%20(merged).pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/CoverProtocol/cover-security/master/audits/PeckShield-Audit-Report-CoverForge-v1.0rc.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/CoverProtocol/cover-security/master/audits/peckshield-audit-report-cover-v1.0.pdf"

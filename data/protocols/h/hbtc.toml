@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "hbtc"
+website = "https://www.hbtc.finance/ "
+
+# Audits
+[[audit]]
+url = "https://www.htokens.finance/static/pdf/audit-report-en.pdf"

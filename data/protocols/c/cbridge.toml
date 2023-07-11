@@ -1,0 +1,37 @@
+# Protocol Level Information
+title = "cbridge"
+website = "https://cbridge.celer.network/#/transfer"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/celer-network/sgn-v2-contracts/main/audit/CertiK_sgn_cbridge.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/celer-network/sgn-v2-contracts/main/audit/PeckShield_gov.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/celer-network/sgn-v2-contracts/main/audit/PeckShield_message.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/celer-network/sgn-v2-contracts/main/audit/PeckShield_nft_bridge.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/celer-network/sgn-v2-contracts/main/audit/PeckShield_pegged.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/celer-network/sgn-v2-contracts/main/audit/PeckShield_sgn_cbridge.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/celer-network/sgn-v2-contracts/main/audit/SlowMist_gov.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/celer-network/sgn-v2-contracts/main/audit/SlowMist_message.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/celer-network/sgn-v2-contracts/main/audit/SlowMist_message_apps.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/celer-network/sgn-v2-contracts/main/audit/SlowMist_pegged.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/celer-network/sgn-v2-contracts/main/audit/SlowMist_sgn_cbridge.pdf"

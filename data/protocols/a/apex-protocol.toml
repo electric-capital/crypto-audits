@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "apex-protocol"
+website = "https://www.apex.exchange/"
+
+# Audits
+[[audit]]
+url = "https://github.com/ApeX-Protocol/core/blob/master/docs/audit_report.pdf"

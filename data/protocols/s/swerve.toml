@@ -1,0 +1,10 @@
+# Protocol Level Information
+title = "swerve"
+website = "https://swerve.fi/"
+
+# Audits
+[[audit]]
+url = "https://github.com/crypticlabs/swerve-audit-report/blob/master/Swerve%20Finance%20Audit%20-%20by%20Cryptic%20Labs%20v3.pdf"
+
+[[audit]]
+url = "https://github.com/crypticlabs/swerve-audit-report/blob/master/Swerve%20Finance%20Audit%20-%20by%20Cryptic%20Labs%20v2.pdf"

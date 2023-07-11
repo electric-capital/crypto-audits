@@ -1,0 +1,37 @@
+# Protocol Level Information
+title = "pooltogether"
+website = "https://pooltogether.com/"
+
+# Audits
+[[audit]]
+url = "https://blog.openzeppelin.com/pooltogether-v3-audit/"
+
+[[audit]]
+url = "https://consensys.net/diligence/audits/2020/11/pooltogether-lootbox-and-multiplewinners-strategy/"
+
+[[audit]]
+url = "https://consensys.net/diligence/audits/2021/02/pooltogether/"
+
+[[audit]]
+url = "https://consensys.net/diligence/audits/2021/03/pooltogether-pods/"
+
+[[audit]]
+url = "https://consensys.net/diligence/audits/2021/05/pooltogether-sushi-and-yearn-v2-yield-sources/"
+
+[[audit]]
+url = "https://code4rena.com/reports/2021-06-pooltogether"
+
+[[audit]]
+url = "https://code4rena.com/reports/2021-07-pooltogether/"
+
+[[audit]]
+url = "https://code4rena.com/reports/2021-10-pooltogether"
+
+[[audit]]
+url = "https://code4rena.com/reports/2021-12-pooltogether/"
+
+[[audit]]
+url = "https://code4rena.com/reports/2022-02-pooltogether/"
+
+[[audit]]
+url = "https://code4rena.com/reports/2022-04-pooltogether/"

@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "dev-protocol"
+website = "https://devprtcl.com/"
+
+# Audits
+[[audit]]
+url = "https://github.com/dev-protocol/protocol/blob/main/docs/audit-report__quantstamp--sept-15-2020.pdf"

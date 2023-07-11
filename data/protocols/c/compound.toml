@@ -1,0 +1,31 @@
+# Protocol Level Information
+title = "compound"
+website = "https://compound.finance"
+
+# Audits
+[[audit]]
+url = "https://github.com/trailofbits/publications/blob/master/reviews/compound-2.pdf"
+
+[[audit]]
+url = "https://blog.openzeppelin.com/compound-audit/"
+
+[[audit]]
+url = "https://github.com/trailofbits/publications/blob/master/reviews/compound-3.pdf"
+
+[[audit]]
+url = "https://blog.openzeppelin.com/compound-finance-patch-audit"
+
+[[audit]]
+url = "https://blog.openzeppelin.com/compound-finance-mcd-dsr-integration/"
+
+[[audit]]
+url = "https://blog.openzeppelin.com/compound-alpha-governance-system-audit/"
+
+[[audit]]
+url = "https://github.com/trailofbits/publications/blob/master/reviews/compound-governance.pdf"
+
+[[audit]]
+url = "https://blog.openzeppelin.com/compound-tether-integration-audit/"
+
+[[audit]]
+url = "https://blog.openzeppelin.com/compound-comp-distribution-system-audit/"

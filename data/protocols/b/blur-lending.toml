@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "blur-lending"
+website = "https://blur.io/"
+
+# Audits
+[[audit]]
+url = "https://github.com/rencryptofish/audit-reports-extra/blob/main/Blend_final_report_v1.1.pdf"

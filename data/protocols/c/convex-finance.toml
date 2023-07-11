@@ -1,0 +1,10 @@
+# Protocol Level Information
+title = "convex-finance"
+website = "https://www.convexfinance.com/"
+
+# Audits
+[[audit]]
+url = "https://github.com/convex-eth/platform/blob/main/audit/Convex%20Platform%20Security%20Audit%20Report.pdf"
+
+[[audit]]
+url = "https://github.com/convex-eth/platform/blob/main/audit/PeckShield-Audit-Report-ConvexStakingWrapperOhmSync-v1.0.pdf"

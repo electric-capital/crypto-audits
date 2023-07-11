@@ -1,0 +1,19 @@
+# Protocol Level Information
+title = "gearbox"
+website = "https://gearbox.fi"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/Gearbox-protocol/gearbox-contracts/master/audits/ChainSecurity_Gearbox_audit.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/Gearbox-protocol/gearbox-contracts/master/audits/ConsensysDiligence%20_Fuzzing_report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/Gearbox-protocol/gearbox-contracts/master/audits/MixBytes_security_audit_report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/Gearbox-protocol/gearbox-contracts/master/audits/Peckshield-03.05.2021.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/Gearbox-protocol/gearbox-contracts/master/audits/Peckshield-10.08.2021.pdf"

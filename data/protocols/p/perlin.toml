@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "perlin"
+website = "https://perlinx.finance/"
+
+# Audits
+[[audit]]
+url = "https://certificate.quantstamp.com/full/perlin-xerc-20-emission.pdf"

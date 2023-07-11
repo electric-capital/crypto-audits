@@ -1,0 +1,10 @@
+# Protocol Level Information
+title = "balancer-v1"
+website = "https://balancer.finance/"
+
+# Audits
+[[audit]]
+url = "https://consensys.net/diligence/audits/2020/05/balancer-finance/"
+
+[[audit]]
+url = "https://github.com/balancer/balancer-core/blob/master/Trail%20of%20Bits%20Full%20Audit.pdf"

@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "keep3r-network"
+website = "https://keep3r.network"
+
+# Audits
+[[audit]]
+url = "https://github.com/keep3r-network/keep3r.network/blob/master/audits/PeckShield-Audit-Report-Keep3r-v1.0.pdf"

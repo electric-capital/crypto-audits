@@ -1,0 +1,22 @@
+# Protocol Level Information
+title = "hats.v1"
+website = "https://hats.finance"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/hats-finance/hats-contracts/develop/audit/202105-zokyo-audit.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/hats-finance/hats-contracts/develop/audit/202107-g0-group-audit.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/hats-finance/hats-contracts/develop/audit/202109-levi-audit.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/hats-finance/hats-contracts/develop/audit/202210-g0-group-audit.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/hats-finance/hats-contracts/develop/audit/202301-hexen-audit.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/hats-finance/hats-contracts/develop/audit/202302-g0-group-audit.pdf"

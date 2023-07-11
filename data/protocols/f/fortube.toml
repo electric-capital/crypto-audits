@@ -1,0 +1,13 @@
+# Protocol Level Information
+title = "fortube"
+website = "https://for.tube/"
+
+# Audits
+[[audit]]
+url = "https://for.tube/PeckShield-Audit-Report-ForTubeV3-v1.0.pdf"
+
+[[audit]]
+url = "https://for.tube/Smart%20Contract%20Security%20Audit%20Report%20-%20Fortube%20Bank%202.0.pdf"
+
+[[audit]]
+url = "https://for.tube/ForTube%20CertiK%20Report.pdf"

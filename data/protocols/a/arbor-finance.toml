@@ -1,0 +1,10 @@
+# Protocol Level Information
+title = "arbor-finance"
+website = "https://arbor.finance"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/alwaysbegrowing/arbor-contracts/main/audits/previously-porter-finance-spearbit-audit.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/alwaysbegrowing/arbor-contracts/main/audits/previously-porter-finance-zellic-audit.pdf"

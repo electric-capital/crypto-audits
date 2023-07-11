@@ -1,0 +1,10 @@
+# Protocol Level Information
+title = "flexa"
+website = "https://amptoken.org/"
+
+# Audits
+[[audit]]
+url = "https://consensys.net/diligence/audits/2020/06/amp/"
+
+[[audit]]
+url = "https://github.com/trailofbits/publications/blob/master/reviews/amp.pdf"

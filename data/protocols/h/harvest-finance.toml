@@ -1,0 +1,16 @@
+# Protocol Level Information
+title = "harvest-finance"
+website = "https://harvest.finance/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/harvest-finance/harvest/master/audits/CertiK-Harvest.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/harvest-finance/harvest/master/audits/Haechi-Harvest.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/harvest-finance/harvest/master/audits/LeastAuthority-Harvest.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/harvest-finance/harvest/master/audits/PeckShield-Harvest.pdf"

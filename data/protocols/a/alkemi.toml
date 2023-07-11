@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "alkemi"
+website = "https://alkemi.network"
+
+# Audits
+[[audit]]
+url = "https://github.com/AlkemiNetwork/alkemi-earn-security-audit/blob/main/Quantstamp%20Security%20Audit%20of%20Alkemi%20-%20Report.pdf"

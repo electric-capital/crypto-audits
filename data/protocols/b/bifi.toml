@@ -1,0 +1,19 @@
+# Protocol Level Information
+title = "bifi"
+website = "https://bifi.finance/"
+
+# Audits
+[[audit]]
+url = "https://github.com/bifrost-platform/BiFi-X/blob/main/docs/bifrost_bifix_audit.pdf"
+
+[[audit]]
+url = "https://github.com/bifrost-platform/BIFI/blob/master/docs/ENG/(ENG)_BiFi_BIFROST_Extension_Theori.pdf"
+
+[[audit]]
+url = "https://github.com/bifrost-platform/BIFI/blob/master/docs/ENG/(ENG)_BiFi_Lending_Sooho_EN_Public.pdf"
+
+[[audit]]
+url = "https://github.com/bifrost-platform/BIFI/blob/master/docs/ENG/(ENG)_BiFi_Token_Hexlant_EN.pdf"
+
+[[audit]]
+url = "https://github.com/bifrost-platform/BIFI/blob/master/docs/ENG/(ENG)_BiFrost_BTC_Extension_CertiK.pdf"

@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "across"
+website = "https://across.to"
+
+# Audits
+[[audit]]
+url = "https://blog.openzeppelin.com/uma-audit-l2-bridges"

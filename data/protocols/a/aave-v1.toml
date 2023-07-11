@@ -1,0 +1,25 @@
+# Protocol Level Information
+title = "aave-v1"
+website = "https://aave.com"
+
+# Audits
+[[audit]]
+url = "https://github.com/aave/aave-protocol/blob/master/docs/ToB_aave_protocol_final_report.pdf"
+
+[[audit]]
+url = "https://github.com/aave/aave-protocol/blob/master/docs/OZ%20-%20Aave%20Protocol%20Audit.pdf"
+
+[[audit]]
+url = "https://github.com/aave/aave-token/blob/master/audits/AaveTokenVerification_by_Certora.pdf"
+
+[[audit]]
+url = "https://consensys.net/diligence/audits/2020/07/aave-token/"
+
+[[audit]]
+url = "https://github.com/aave/aave-token/blob/master/audits/AaveTokenReport_CertiK.pdf"
+
+[[audit]]
+url = "https://consensys.net/diligence/audits/2020/09/aave-safety-module/"
+
+[[audit]]
+url = "https://github.com/aave/safety-module/blob/master/audits/CertiK_Aave_Staking_audit.pdf"

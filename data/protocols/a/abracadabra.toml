@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "abracadabra"
+website = "https://abracadabra.money/"
+
+# Audits
+[[audit]]
+url = "https://github.com/Abracadabra-money/abracadabra-money-contracts/blob/main/audits/MagicGlpReview.md"

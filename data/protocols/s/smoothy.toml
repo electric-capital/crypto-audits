@@ -1,0 +1,10 @@
+# Protocol Level Information
+title = "smoothy"
+website = "https://smoothy.finance/"
+
+# Audits
+[[audit]]
+url = "https://github.com/peckshield/publications/blob/master/audit_reports/PeckShield-Audit-Report-Smoothy-v1.0.pdf"
+
+[[audit]]
+url = "https://github.com/slowmist/Knowledge-Base/blob/master/open-report/Smart%20Contract%20Security%20Audit%20Report%20-%20SmoothyV1.pdf"

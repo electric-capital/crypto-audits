@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "aavegotchi"
+website = "https://aavegotchi.com"
+
+# Audits
+[[audit]]
+url = "https://skynet.certik.com/projects/aavegotchi"

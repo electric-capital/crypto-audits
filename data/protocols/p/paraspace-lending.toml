@@ -1,0 +1,28 @@
+# Protocol Level Information
+title = "paraspace-lending"
+website = "https://para.space"
+
+# Audits
+[[audit]]
+url = "https://github.com/trailofbits/publications/blob/master/reviews/ParallelFinance2FixReview.pdf"
+
+[[audit]]
+url = "https://github.com/trailofbits/publications/blob/master/reviews/ParallelFinance3.pdf"
+
+[[audit]]
+url = "https://github.com/Secure3Audit/Secure3Academy/tree/main/audit_reports/ParaSpace"
+
+[[audit]]
+url = "https://625248360-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FSkcQFPKbtOmfoFkTbdbO%2Fuploads%2F68ZQDO2ooO08WQzgSfwi%2FParaSpace%20Contract%20Audit.pdf?alt=media&token=24b5b3c3-ae8e-4c5a-92c3-17b5dd3edd92"
+
+[[audit]]
+url = "https://625248360-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FSkcQFPKbtOmfoFkTbdbO%2Fuploads%2FRj7lM1FWdNnsaDIGAwMq%2FREP-final-20221223T070404Z%20(1).pdf?alt=media&token=b4e60c12-8a38-49fc-bb1b-09c641bff893"
+
+[[audit]]
+url = "https://625248360-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FSkcQFPKbtOmfoFkTbdbO%2Fuploads%2FfF8ZVrmygSWIz8tY6n0x%2FVAR_Parallel2.pdf?alt=media&token=72e49c1e-2c00-408e-8a89-437543e404ad"
+
+[[audit]]
+url = "https://625248360-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FSkcQFPKbtOmfoFkTbdbO%2Fuploads%2Fi0x5d8NlAxzDKmj1k64g%2FParaSpaceV1.4P3_final_Secure3_Audit_Report.pdf?alt=media&token=5c1ea8a5-e139-4133-9105-8086495f7855"
+
+[[audit]]
+url = "https://625248360-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FSkcQFPKbtOmfoFkTbdbO%2Fuploads%2FYNFKiczin1xzYnhAXagM%2FParaSpaceTimeLock_final_Secure3_Audit_Report.pdf?alt=media&token=fac26f21-e726-4ce0-8581-654b44bc97ab"

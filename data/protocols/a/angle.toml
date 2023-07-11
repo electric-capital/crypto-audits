@@ -1,0 +1,13 @@
+# Protocol Level Information
+title = "angle"
+website = "https://app.angle.money"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/AngleProtocol/angle-core/main/audits/Chainsecurity%20Audit%20Report%20December%2021.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/AngleProtocol/angle-core/main/audits/Chainsecurity%20Audit%20Report%20July%2021.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/AngleProtocol/angle-core/main/audits/Sigma%20Prime%20Audit%20Report%20July%2021.pdf"

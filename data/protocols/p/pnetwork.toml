@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "pnetwork"
+website = "https://p.network"
+
+# Audits
+[[audit]]
+url = "https://cryptonics.consulting/wp-content/uploads/2020/03/20200302_Audit_Report_pToken-2.pdf"

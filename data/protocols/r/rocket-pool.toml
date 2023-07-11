@@ -1,0 +1,16 @@
+# Protocol Level Information
+title = "rocket-pool"
+website = "https://rocketpool.net"
+
+# Audits
+[[audit]]
+url = "https://consensys.net/diligence/audits/2021/04/rocketpool/"
+
+[[audit]]
+url = "https://rocketpool.net/files/SigmaPrimeAudit.pdf"
+
+[[audit]]
+url = "https://rocketpool.net/files/SigmaPrimeFixReview.pdf"
+
+[[audit]]
+url = "https://github.com/trailofbits/publications/blob/master/reviews/RocketPool.pdf"

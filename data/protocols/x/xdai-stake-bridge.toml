@@ -1,0 +1,19 @@
+# Protocol Level Information
+title = "xdai-stake-bridge"
+website = "https://xdaichain.com/ "
+
+# Audits
+[[audit]]
+url = "https://docs.gnosischain.com/assets/files/ChainSecurity_POA_Network_Omnibridge_Version_6_0_audit-37682389588f38075a14b6fcfb329cb1.pdf"
+
+[[audit]]
+url = "https://chainsecurity.com/security-audit/poa-network-omnibridge/"
+
+[[audit]]
+url = "https://github.com/poanetwork/tokenbridge/blob/master/audit/quantstamp/POA-Network-TokenBridge-contracts-5.4.1-security-assessment-report.pdf"
+
+[[audit]]
+url = "https://docs.gnosischain.com/assets/files/XDai-Easy-Staking-Final-Report-743c3123df4011b12ba2d7ccdd6c85b2.pdf"
+
+[[audit]]
+url = "https://github.com/poanetwork/tokenbridge/blob/73d500210546e2959536dc569f1aec5752077225/audit/quantstamp/POA-Network-Token-bridge-security-assessment-report.pdf"

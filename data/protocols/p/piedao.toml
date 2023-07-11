@@ -1,0 +1,16 @@
+# Protocol Level Information
+title = "piedao"
+website = "https://www.piedao.org/"
+
+# Audits
+[[audit]]
+url = "https://github.com/pie-dao/audits/blob/main/Mixbytes%20-%20ExperiPie_Smart_Contrac%202020-12-11.pdf"
+
+[[audit]]
+url = "https://github.com/pie-dao/audits/blob/main/Mixbytes%20-%20VestedTokenMigration%20and%20Crust%20Smart%20Contracts%20Audit%202020-09-14.md"
+
+[[audit]]
+url = "https://github.com/pie-dao/audits/blob/main/Quantstamp%20-%20PieSmartPool%20v1%202020-04-30.pdf"
+
+[[audit]]
+url = "https://github.com/pie-dao/audits/blob/main/Quantstamp%20-%20PieSmartPool%20v2%202020-09-16.pdf"

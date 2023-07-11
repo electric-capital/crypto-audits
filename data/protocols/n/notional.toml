@@ -1,0 +1,34 @@
+# Protocol Level Information
+title = "notional"
+website = "https://notional.finance/"
+
+# Audits
+[[audit]]
+url = "https://blog.openzeppelin.com/notional-audit/"
+
+[[audit]]
+url = "https://blog.openzeppelin.com/notional-v2-audit-governance-contracts/"
+
+[[audit]]
+url = "https://github.com/notional-finance/contracts-v2/blob/master/audits/ABDK%20-%20Notional%20V2%2C%20Sept%201%202021.pdf"
+
+[[audit]]
+url = "https://github.com/notional-finance/contracts-v2/blob/master/audits/Certora%20-%20Formal%20Verfication%20Report%2C%20Nov%201%202021.pdf"
+
+[[audit]]
+url = "https://github.com/notional-finance/contracts-v2/blob/master/audits/ABDK%20-%20Notional%20V2%20Fixes%2C%20Nov%201%202021.pdf"
+
+[[audit]]
+url = "https://code4rena.com/reports/2022-01-notional/"
+
+[[audit]]
+url = "https://consensys.net/diligence/audits/2022/03/notional-protocol-v2.1/"
+
+[[audit]]
+url = "https://code4rena.com/reports/2022-06-notional-coop/"
+
+[[audit]]
+url = "https://consensys.net/diligence/audits/2022/07/notional-finance/"
+
+[[audit]]
+url = "https://audits.sherlock.xyz/contests/31/report"

@@ -1,0 +1,40 @@
+# Protocol Level Information
+title = "balancer-v2"
+website = "https://balancer.finance/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/balancer/balancer-v2-monorepo/master/audits/abdk/2022-05-27.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/balancer/balancer-v2-monorepo/master/audits/certora/2021-04-22.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/balancer/balancer-v2-monorepo/master/audits/certora/2022-09-23.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/balancer/balancer-v2-monorepo/master/audits/certora/2023-05-08.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/balancer/balancer-v2-monorepo/master/audits/openzeppelin/2021-03-15.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/balancer/balancer-v2-monorepo/master/audits/openzeppelin/2021-10-09.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/balancer/balancer-v2-monorepo/master/audits/test-report.md"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/balancer/balancer-v2-monorepo/master/audits/trail-of-bits/2021-04-02.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/balancer/balancer-v2-monorepo/master/audits/trail-of-bits/2021-10-08.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/balancer/balancer-v2-monorepo/master/audits/trail-of-bits/2022-05-27.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/balancer/balancer-v2-monorepo/master/audits/trail-of-bits/2022-09-02.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/balancer/balancer-v2-monorepo/master/audits/trail-of-bits/2022-10-25.pdf"

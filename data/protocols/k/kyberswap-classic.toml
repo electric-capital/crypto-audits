@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "kyberswap-classic"
+website = "https://kyberswap.com/#/swap"
+
+# Audits
+[[audit]]
+url = "https://chainsecurity.com/wp-content/uploads/2022/06/ChainSecurity_Kyber_Network_KyberSwap_Classic_audit.pdf"

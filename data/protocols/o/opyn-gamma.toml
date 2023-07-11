@@ -1,0 +1,19 @@
+# Protocol Level Information
+title = "opyn-gamma"
+website = "https://www.opyn.co/"
+
+# Audits
+[[audit]]
+url = "https://github.com/akiratechhq/review-opyn-gamma-2021-08"
+
+[[audit]]
+url = "https://github.com/trailofbits/publications/blob/master/reviews/Opyn-Gamma-Protocol.pdf"
+
+[[audit]]
+url = "https://github.com/peckshield/publications/blob/master/audit_reports/peckshield-audit-report-Opyn-v1.0.pdf"
+
+[[audit]]
+url = "https://www.certora.com/pubs/OpynGammaDec2020.pdf"
+
+[[audit]]
+url = "https://blog.openzeppelin.com/opyn-gamma-protocol-audit/"

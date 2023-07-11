@@ -1,0 +1,19 @@
+# Protocol Level Information
+title = "unit-protocol"
+website = "https://app.unit.xyz/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/unitprotocol/protocol_docs/master/Levelk_Security_Audit_Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/unitprotocol/protocol_docs/master/Mixbytes%20%20Certificate%20of%20Compliance.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/unitprotocol/protocol_docs/master/Mixbytes%20Security%20Audit%20Report.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/unitprotocol/protocol_docs/master/borrow_protocol.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/unitprotocol/protocol_docs/master/certik-final-report.pdf"

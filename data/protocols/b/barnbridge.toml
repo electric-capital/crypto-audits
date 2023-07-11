@@ -1,0 +1,31 @@
+# Protocol Level Information
+title = "barnbridge"
+website = "https://barnbridge.com/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/BarnBridge/BarnBridge-PM/master/audits/BarnBridge%20DAO%20audit%20by%20Haechi.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/BarnBridge/BarnBridge-PM/master/audits/BarnBridge%20DAO%20audit%20by%20Quanstamp.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/BarnBridge/BarnBridge-PM/master/audits/BarnBridge%20SMART%20Alpha%20audit%20by%20Certik.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/BarnBridge/BarnBridge-PM/master/audits/BarnBridge%20SMART%20Exposure%20audit%20by%20Hacken.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/BarnBridge/BarnBridge-PM/master/audits/BarnBridge%20SMART%20Yield%20(aave%2Bcream)%20audit%20by%20Hacken.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/BarnBridge/BarnBridge-PM/master/audits/BarnBridge%20SMART%20Yield%20(compound)%20audit%20by%20Hacken.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/BarnBridge/BarnBridge-PM/master/audits/BarnBridge%20SMART%20Yield%20audit%20by%20Open%20Zeppelin.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/BarnBridge/BarnBridge-PM/master/audits/BarnBridge%20Yield%20Farming%20Continuous%20audit%20by%20Hacken.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/BarnBridge/BarnBridge-PM/master/audits/BarnBridge%20Yield%20Farming%20audit%20by%20Hacken.pdf"

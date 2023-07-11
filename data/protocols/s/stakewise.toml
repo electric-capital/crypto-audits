@@ -1,0 +1,22 @@
+# Protocol Level Information
+title = "stakewise"
+website = "https://stakewise.io/"
+
+# Audits
+[[audit]]
+url = "https://raw.githubusercontent.com/stakewise/contracts/master/audits/2021-01-14-RuntimeVerification.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/stakewise/contracts/master/audits/2021-04-18-Certik.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/stakewise/contracts/master/audits/2021-06-01-Certik.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/stakewise/contracts/master/audits/2021-11-25-Omniscia.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/stakewise/contracts/master/audits/2022-05-06-Quantstamp.pdf"
+
+[[audit]]
+url = "https://raw.githubusercontent.com/stakewise/contracts/master/audits/2022-09-16-Pessimistic.pdf"

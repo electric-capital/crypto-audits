@@ -1,0 +1,19 @@
+# Protocol Level Information
+title = "ribbon"
+website = "https://www.ribbon.finance/"
+
+# Audits
+[[audit]]
+url = "https://blog.openzeppelin.com/ribbon-finance-audit/"
+
+[[audit]]
+url = "https://github.com/ribbon-finance/audit/blob/master/reports/RibbonThetaVault%20V2%20Smart%20Contract%20Review%20And%20Verification.pdf"
+
+[[audit]]
+url = "https://github.com/ribbon-finance/audit/blob/master/reports/PeckShield-Audit-Report-Ribbon-v1.0.pdf"
+
+[[audit]]
+url = "https://github.com/ChainSafe/audits/blob/main/Ribbon%20Finance/Ribbon-Audit_April-2021.pdf"
+
+[[audit]]
+url = "https://github.com/ribbon-finance/audit/blob/master/reports/Quantstamp%20Theta%20Vault.pdf"

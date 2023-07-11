@@ -1,0 +1,22 @@
+# Protocol Level Information
+title = "curve-dex"
+website = "https://curve.fi"
+
+# Audits
+[[audit]]
+url = "https://classic.curve.fi/files/00-ToB.pdf"
+
+[[audit]]
+url = "https://classic.curve.fi/files/01-ToB.pdf"
+
+[[audit]]
+url = "https://classic.curve.fi/files/CurveMetapoolAudit.pdf"
+
+[[audit]]
+url = "https://chainsecurity.com/wp-content/uploads/2021/10/ChainSecurity_Curve-Finance-_-Tricrypto_smart-contract-audit_-September-2021.pdf"
+
+[[audit]]
+url = "https://github.com/mixbytes/audits_public/blob/26ffc7e020dc425ce6a95a3efbc28b6d456066cf/Curve%20Finance/DAO%20Voting%20Forwarder/Curve%20Finance%20DAO%20Voting%20Forwarder%20Security%20Audit%20Report.pdf"
+
+[[audit]]
+url = "https://github.com/mixbytes/audits_public/blob/26ffc7e020dc425ce6a95a3efbc28b6d456066cf/Curve%20Finance/DAO%20Voting/Curve%20Finance%20DAO%20Voting%20Security%20Audit%20Report.pdf"

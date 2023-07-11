@@ -1,0 +1,22 @@
+# Protocol Level Information
+title = "bancor-v2.1"
+website = "https://app.bancor.network/"
+
+# Audits
+[[audit]]
+url = "https://github.com/rencryptofish/audit-reports-extra/blob/main/Bancor%20V2%20AMM%20Security%20Audit%20_%20ConsenSys%20Diligence.pdf"
+
+[[audit]]
+url = "https://github.com/rencryptofish/audit-reports-extra/blob/main/Final%20Report%20Bancor-Governance-09_10_2020.pdf"
+
+[[audit]]
+url = "https://github.com/rencryptofish/audit-reports-extra/blob/main/Final%20Report%20Bancor-LiquidityProtection-09_10_2020.pdf"
+
+[[audit]]
+url = "https://github.com/rencryptofish/audit-reports-extra/blob/main/PeckShield-Audit-Report-Bancor-StakingRewards-v1.0.pdf"
+
+[[audit]]
+url = "https://github.com/HalbornSecurity/PublicReports/blob/master/Solidity%20Smart%20Contract%20Audits/Bancor_smartcontract_halborn_report_V1.pdf"
+
+[[audit]]
+url = "https://gist.github.com/Arachnid/c65fd1bd61a8e0294aef95a4808edc78"

@@ -1,0 +1,25 @@
+# Protocol Level Information
+title = "benddao-lending"
+website = "https://www.benddao.xyz"
+
+# Audits
+[[audit]]
+url = "https://www.verilog.solutions/audits/benddao/"
+
+[[audit]]
+url = "https://www.verilog.solutions/audits/benddao_liquidity/"
+
+[[audit]]
+url = "https://www.verilog.solutions/audits/bend_apecoin_staking/"
+
+[[audit]]
+url = "https://www.verilog.solutions/audits/benddao_apecoin_vault/"
+
+[[audit]]
+url = "https://www.verilog.solutions/audits/benddao_nft_wrapper/"
+
+[[audit]]
+url = "https://www.verilog.solutions/audits/benddao_ape_staking_v2/"
+
+[[audit]]
+url = "https://www.certik.com/projects/bend-dao"

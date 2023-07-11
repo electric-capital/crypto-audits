@@ -1,0 +1,25 @@
+# Protocol Level Information
+title = "ooki"
+website = "https://ipfs-ooki-eth.ipns.dweb.link/lend/asset"
+
+# Audits
+[[audit]]
+url = "https://web.archive.org/web/20220527205849/https://bzx.network/pdfs/bZx_v2_Audit%E2%80%93Report_CertiK.pdf"
+
+[[audit]]
+url = "https://web.archive.org/web/20220527205849/https://bzx.network/pdfs/peckshield-audit-report-bZxV2-v1.0rc1.pdf"
+
+[[audit]]
+url = "https://web.archive.org/web/20220527205849/https://bzx.network/pdfs/BZRX_vBZRX_CertiK_Verification_Report_1_07_11_2020.pdf"
+
+[[audit]]
+url = "https://web.archive.org/web/20220527205849/https://bzx.network/pdfs/BZRX_vBZRX_CertiK_Report_1_07_11_2020.pdf"
+
+[[audit]]
+url = "https://web.archive.org/web/20220527205849/https://bzx.network/pdfs/CertiK%20Verification%20Report%20for%20bZx.pdf"
+
+[[audit]]
+url = "https://web.archive.org/web/20220527205849/https://bzx.network/pdfs/CertiK%20Verification%20Report%20for%20bZx.pdf"
+
+[[audit]]
+url = "https://web.archive.org/web/20220527205849/https://github.com/mattdf/audits/blob/master/bZx/bzx-audit.pdf"

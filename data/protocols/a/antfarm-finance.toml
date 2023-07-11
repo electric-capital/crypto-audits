@@ -1,0 +1,7 @@
+# Protocol Level Information
+title = "antfarm-finance"
+website = "https://antfarm.finance"
+
+# Audits
+[[audit]]
+url = "https://www.docdroid.net/file/download/MxzpjSg/antfarmfinance-11-smart-contract-audit-report-pdf.pdf"
